@@ -1,0 +1,134 @@
+body{
+	font-family: arial;
+    text-align: left;
+}
+.AssignmentSlipContainer .assignmentForm{
+    background-color: #fff;
+    color: #000;
+    // margin: 0 auto;
+}
+.download-assignment-slip{
+	margin-top: 20px;
+}
+.underLine{
+	text-decoration: underline;
+}
+.wrapInner{
+	width: 960px;
+	margin: 0 auto;
+}
+.assignmentForm{
+	width: 368px;
+    box-sizing: border-box;
+    padding: 8px 38px 16px 38px;
+	border: 1px dotted #ccc;
+}
+.assignmentForm p{
+	// margin: 5px 0;
+	font-size: 14px;
+    text-align-last: left;
+}
+h2{
+	text-transform: uppercase;
+    font-size: 16px;
+    text-align: center;
+}
+.sectionBlock02{
+	overflow: hidden;
+}
+.sectionBlock02 ul{
+	padding-left: 10px;
+    margin: 5px 0px;
+    text-align: left;
+    padding-left: 0;
+    input{
+        margin-left: 0;
+    }
+}
+.sectionBlock02 ul li{
+    display: flex;
+    font-size: 11px;
+    line-height: 1;
+	position: relative;
+    margin-bottom: 3px;
+}
+p.note{
+	font-size: 11px;
+    text-align: left;
+}
+.sectionBlock02 .assignment{
+	overflow: hidden;
+	display: flex;
+}
+.sectionBlock02 .assignment ul{
+	width: 50%;
+	box-sizing: border-box;
+	padding-right: 4px;
+}
+.sectionBlock02 .assignment,
+.sectionBlock02 .assignmentPlace{
+	width: 100%;
+}
+.assignmentPlace{ 
+	& > p{
+		margin-bottom: 8px;
+	}
+	li{
+		align-items: center;
+	}
+}
+p{
+	margin: 5px 0;
+}
+.assignmentForm p.small{
+	    font-size: 9px;
+    margin-top: 12px;
+    text-align: left;
+}
+.assignment-list-container{
+	display: flex;
+	align-items: flex-start;
+	width: 100%;
+	.name{
+		margin-top: 0;
+	}
+	.assignment-name-and-notes{
+		flex-grow: 1;
+		.notes{
+			font-size: 11px;
+			border-bottom: 1px solid #ccc;
+		}
+	}
+}
+.sectionBlock02{
+	.checkbox-style{
+		width: 12px;
+		height: 12px;
+		border: 1px solid #9f9f9f;
+		border-radius: 4px;
+		margin-right: 4px;
+		&.checked{
+			background-color: #0e6ce1;
+			border-color: #0e6ce1;
+			display: flex;
+			align-items: center;
+			justify-content: center;
+			&:after{
+				content: "";
+				transform: rotate(45deg);
+				height: 8px;
+				width: 3px;
+				border-right: 2px solid #fff;
+				border-bottom: 2px solid #fff;
+				margin-top: -3px;
+				margin-left: 0px;
+			}
+		}
+	}
+}
+@media print {
+	.assignmentForm{
+		padding: 5px 40px 8px;
+		margin: 2px 0 5px;
+	}
+}

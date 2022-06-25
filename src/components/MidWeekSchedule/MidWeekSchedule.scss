@@ -1,0 +1,183 @@
+.section-row{
+    display: flex;
+    .w100p{
+        width: 100%;
+    }
+    .w75p{
+        width: 75%;
+    }
+    .w50p{
+        width: 50%;
+    }
+    .w25p{
+        width: 25%;
+    }
+    p{
+        padding: 0 5px;
+        text-align: left;
+    }
+    .tr{
+        text-align: right;
+        justify-content: flex-end;
+        .label{
+            text-align: right;
+        }
+    }
+    .with-pointer{
+        padding-left: 22px;
+    }
+    .label{
+        font-size: 12px;
+        font-weight: 700;
+        color: #65686b;
+        // &.cell-header{
+        //     color: #222;
+        // }
+    }
+}
+.date-and-bible-reading{
+    display: flex;
+    align-items: center;
+    height: 100%;
+    font-weight: 700;
+    p{
+        text-transform: uppercase;
+        font-size: 20px;
+        color: #fff;
+    }
+}
+
+.subtitle-heading{
+    color: #fff;
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: 15px;
+}
+
+.heading-section{
+    margin-bottom: 5px;
+    padding: 5px 0;
+    // border-bottom: 2px solid #a4a6a9;
+    color: #fff;
+    // &:after{
+    //     content: "";
+    //     display: block;
+    //     width: 100%;
+    //     padding-bottom: 2px;
+    //     border-bottom: 5px solid #585b5e;
+    // }
+    .congregation{
+        font-weight: 700;
+        line-height: 1.4;
+    }
+    .centered{
+        justify-content: center;
+    }
+    .title{
+        text-align: center;
+        font-size: 26px;
+        line-height: 1.5;
+        letter-spacing: 0.25px;
+        font-family: arial;
+        font-weight: 700;
+    }
+}
+.with-pointer{
+    position: relative;
+    &:before{
+        content: "";
+        position: absolute;
+        left: 8px;
+        top: 50%;
+        transform: translateY(-50%);
+        background-color: #58595d;
+        width: 6px;
+        height: 6px;
+        border-radius: 6px;
+    }
+}
+.section-col{
+    border: 1px solid #727272;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    .partner-assignee{
+        display: flex;
+        align-items: center;
+        flex-wrap: wrap;
+        justify-content: flex-start;
+    }
+    .slash{
+        margin: 0 3px;
+    }
+}
+.time-col{
+    width: 60px;
+    display: flex;
+    border: 1px solid #727272;
+    align-items: center;
+    justify-content: center;
+    border-left: 0;
+    p{
+        text-align: center;
+    }
+}
+.time-col-container{
+    .section-col{
+        width: calc(100% - 60px);
+    }
+}
+.first-section{
+    .time-col-container{
+
+    }
+    .subtitle-heading{
+        border-left: 0;
+        background-color: #58595d;
+    }
+    .with-pointer{
+        &:before{
+            background-color: #58595d;
+        }
+    }
+}
+.second-section{
+    .subtitle-heading{
+        border-left: 0;
+        background-color: #be8801;
+    }
+    .with-pointer{
+        &:before{
+            background-color: #be8801;
+        }
+    }
+}
+.third-section{
+    .subtitle-heading{
+        border-left: 0;
+        background-color: #7d0024;
+    }
+
+    .with-pointer{
+        &:before{
+            background-color: #7d0024;
+        }
+    }
+}
+.section-row .section-col .section-row {
+    .section-col{
+        // border: 0;
+        border-top: 0;
+        border-bottom: 0;
+        &:first-child{
+            border-left: 0;
+        }
+        &:last-child{
+            border-right: 0;
+        }
+    }
+}
+.MidWeekScheduleContainer{
+    margin-bottom: 20px;
+    border: 2px solid #727272;
+}

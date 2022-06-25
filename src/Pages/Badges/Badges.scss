@@ -1,0 +1,16 @@
+.badge-list{
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 20px;
+    margin-right: 20px;
+}
+.badge{
+    position: relative;
+    .text-area{
+        position: absolute;
+        bottom: 42px;
+        font-size: 29px;
+        line-height: 2;
+        left: 27px;
+    }
+}

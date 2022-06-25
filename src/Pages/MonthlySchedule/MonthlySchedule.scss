@@ -1,0 +1,15 @@
+.MonthlyScheduleContainer{
+    max-width: 810px;
+    margin: 0 auto 20px;
+    font-size: 13px;
+}
+@media print
+{    
+    .no-print, .no-print *
+    {
+        display: none !important;
+    }
+    div {
+        break-inside: avoid;
+    }
+}

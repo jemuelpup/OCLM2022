@@ -1,0 +1,9 @@
+.assignments-table{
+  
+}
+th,td{
+  text-align: left;   
+  &:nth-child(2){
+      text-align: center;
+  }
+}

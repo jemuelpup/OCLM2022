@@ -1,0 +1,4115 @@
+[
+    {
+        "id":"galas012022",
+        "month":"Enero",
+        "year":"2022",
+        "color": "#034470",
+        "schedule": [
+            {
+                "date":"Enero 6, 2022",
+                "weeklyBibleReadingSchedule":"HUKOM 15 - 16",
+                "chairman":"Aries Sales",
+                "startingPrayer":"William Varila",
+                "treasuresFromGodsWord": [
+                    {
+                        "title":"“Napakasama ng Pagtataksil!”",
+                        "assignee":"Lemuel Seastres",
+                        "time":10
+                    },
+                    {
+                        "title":"Espirituwal na Hiyas",
+                        "assignee":"Daquiz, Enrique Jr.",
+                        "time":10
+                    }
+                ],
+                "secondHallCouncilor":"Ricardo Paraohao",
+                "secondHallAudience":"G 5",
+                "bibleReading": [
+                    {
+                        "name":"Dan Felipe",
+                        "assistant":"",
+                        "assignment":0,
+                        "place":1,
+                        "time": 4,
+                        "pointerToReview": 10
+                    },
+                    {
+                        "name":"",
+                        "assistant":"",
+                        "assignment":0,
+                        "place":2,
+                        "time": 4,
+                        "pointerToReview": 10
+                    }
+                ],
+                "publishersPart":[
+                    [
+                        {
+                            "name":"Aries Sales",
+                            "assistant":"",
+                            "title": null,
+                            "assignment":1,
+                            "place":1,
+                            "time": 5,
+                            "pointerToReview": 1,
+                            "isVideo": true
+                        },
+                        {
+                            "name":"Ricardo Paraohao",
+                            "assistant":"",
+                            "title": null,
+                            "assignment":1,
+                            "place":2,
+                            "time": 5,
+                            "pointerToReview": 1,
+                            "isVideo": true
+                        }
+                    ],
+                    [
+                        {
+                            "name":"Clark Isidro",
+                            "assistant":"John Jefferson Ramirez",
+                            "title": null,
+                            "assignment":1,
+                            "place":1,
+                            "time": 3,
+                            "pointerToReview": 3
+                        },
+                        {
+                            "name":"Ronald Magpily",
+                            "assistant":"Kier Kiester Pudra",
+                            "title": null,
+                            "assignment":1,
+                            "place":2,
+                            "time": 3,
+                            "pointerToReview": 3
+                        }
+                    ],
+                    [
+                        {
+                            "name":"Chona Tapel",
+                            "assistant":"Sanith Cerbas",
+                            "title": null,
+                            "assignment":1,
+                            "place":1,
+                            "time": 5,
+                            "pointerToReview": 9
+                        },
+                        {
+                            "name":"Dolores Carlos",
+                            "assistant":"Arlene Edar",
+                            "title": null,
+                            "assignment":1,
+                            "place":2,
+                            "time": 5,
+                            "pointerToReview": 9
+                        }
+                    ]
+                ],
+                "music": [
+                    "Awit 124",
+                    "Awit 131",
+                    "Awit 149"
+                ],
+                "livingAsChristians": [
+                    {
+                        "title":"Sinagip ng Bibliya ang Aming Pag-aasawa",
+                        "assignee": "Manuel Rebutido",
+                        "time": 15
+                    }
+                ],
+                "cbsConductor":"Crispin Carlos",
+                "cbsReader":"Gerald Ramento",
+                "endingPrayer":"Ken Velarde"
+            },
+    
+            {
+                "date":"Enero 13, 2022",
+                "weeklyBibleReadingSchedule":"HUKOM 15 - 16",
+                "chairman":"Gerardo Ramento",
+                "startingPrayer":"Ken Velarde",
+                "treasuresFromGodsWord": [
+                    {
+                        "title":"“Napapahamak ang mga Hindi Sumusunod sa Diyos”",
+                        "assignee":"William Varila",
+                        "time":10
+                    },
+                    {
+                        "title":"Espirituwal na Hiyas",
+                        "assignee":"Jemuel Elimanco",
+                        "time":10
+                    }
+                ],
+                "secondHallCouncilor":"Patricio Felipe",
+                "secondHallAudience":"G 6",
+                "bibleReading": [
+                    {
+                        "name":"Leo Cabrillos",
+                        "assistant":"",
+                        "assignment":0,
+                        "place":1,
+                        "time": 4,
+                        "pointerToReview": 2
+                    },
+                    {
+                        "name":"",
+                        "assistant":"",
+                        "assignment":0,
+                        "place":2,
+                        "time": 4,
+                        "pointerToReview": 2
+                    }
+                ],
+                "publishersPart":[
+                    [
+                        {
+                            "name":"Gerardo Ramento",
+                            "assistant":"",
+                            "title": null,
+                            "assignment":2,
+                            "place":1,
+                            "time": 5,
+                            "pointerToReview": 1,
+                            "isVideo": true
+                        },
+                        {
+                            "name":"Patricio Felipe",
+                            "assistant":"",
+                            "title": null,
+                            "assignment":2,
+                            "place":2,
+                            "time": 5,
+                            "pointerToReview": 1,
+                            "isVideo": true
+                        }
+                    ],
+                    [
+                        {
+                            "name":"MJ Oliquino",
+                            "assistant":"Dely Oliquino",
+                            "title": null,
+                            "assignment":2,
+                            "place":1,
+                            "time": 3,
+                            "pointerToReview": 6
+                        },
+                        {
+                            "name":"Linda Amor",
+                            "assistant":"Paulyn Elimanco",
+                            "title": null,
+                            "assignment":2,
+                            "place":2,
+                            "time": 3,
+                            "pointerToReview": 6
+                        }
+                    ],
+                    [
+                        {
+                            "name":"Hannahgene Carlos",
+                            "assistant":"Gina Hoybia",
+                            "title": null,
+                            "assignment":2,
+                            "place":1,
+                            "time": 5,
+                            "pointerToReview": 13
+                        },
+                        {
+                            "name":"Melanie Gerna",
+                            "assistant":"Maricar Isidro",
+                            "title": null,
+                            "assignment":2,
+                            "place":2,
+                            "time": 5,
+                            "pointerToReview": 13
+                        }
+                    ]
+                ],
+                "music": [
+                    "Awit 88",
+                    "Awit 89",
+                    "Awit 150"
+                ],
+                "livingAsChristians": [
+                    {
+                        "title":"Maging Kaibigan ni Jehova—Sundin ang Inyong mga Magulang (Pagtalakay.)",
+                        "assignee":"Eliezer De Vera",
+                        "time":10
+                    },
+                    {
+                        "title":"Lokal na Pangangailangan",
+                        "assignee":"Wilmar Diampoc",
+                        "time":5
+                    }
+                ],
+                "cbsConductor":"Dan Paguirigan",
+                "cbsReader":"Camelo Creus",
+                "endingPrayer":"Enrique Daquiz"
+            },
+            {
+                "date":"ENERO 20, 2022",
+                "weeklyBibleReadingSchedule":"HUKOM 20 - 21",
+                "chairman":"Danny Edar",
+                "startingPrayer":"Enrique Daquiz",
+                "treasuresFromGodsWord": [
+                    {
+                        "title":"“Laging Hingin ang Patnubay ni Jehova”",
+                        "assignee":"Ken Velarde",
+                        "time":10
+                    },
+                    {
+                        "title":"Espirituwal na Hiyas",
+                        "assignee":"Eliezer de Vera",
+                        "time":10
+                    }
+                ],
+                "secondHallCouncilor":"Lemuel Seastres",
+                "secondHallAudience":"G 1",
+                "bibleReading": [
+                    {
+                        "name":"Sherwin Jalbuena",
+                        "assistant":"",
+                        "assignment":0,
+                        "place":1,
+                        "time": 4,
+                        "pointerToReview": 10
+                    },
+                    {
+                        "name":"Antolin Diaz",
+                        "assistant":"",
+                        "assignment":0,
+                        "place":2,
+                        "time": 4,
+                        "pointerToReview": 10
+                    }
+                ],
+                "publishersPart":[
+                    [
+                        {
+                            "name":"Joyce Dela Cruz",
+                            "assistant":"Rosie Tuba",
+                            "title": null,
+                            "assignment":1,
+                            "place":1,
+                            "time": 3,
+                            "pointerToReview": 5
+                        },
+                        {
+                            "name":"Luzmin Pudra",
+                            "assistant":"Rhoda Magalong",
+                            "title": null,
+                            "assignment":1,
+                            "place":2,
+                            "time": 3,
+                            "pointerToReview": 5
+                        }
+                    ],
+                    [
+                        {
+                            "name":"Cellie Ramento",
+                            "assistant":"Anna Roualo",
+                            "title": "4 min",
+                            "assignment":2,
+                            "place":1,
+                            "time": 4,
+                            "pointerToReview": 17
+                        },
+                        {
+                            "name":"Alyiah Amor Magpily",
+                            "assistant":"Daisy Mendoza",
+                            "title": "4 min",
+                            "assignment":2,
+                            "place":2,
+                            "time": 4,
+                            "pointerToReview": 17
+                        }
+                    ],
+                    [
+                        {
+                            "name":"Lorraine Manrique",
+                            "assistant":"Lora Lhee Ocmer",
+                            "title": null,
+                            "assignment":3,
+                            "place":1,
+                            "time": 5,
+                            "pointerToReview": 4
+                        },
+                        {
+                            "name":"Mary Jane Ocmer",
+                            "assistant":"Jeanalyn Mota",
+                            "title": null,
+                            "assignment":3,
+                            "place":2,
+                            "time": 5,
+                            "pointerToReview": 4
+                        }
+                    ]
+                ],
+                "music": [
+                    "Awit 47",
+                    "Awit 5",
+                    "Awit 87"
+                ],
+                "livingAsChristians": [
+                    {
+                        "title":"“2021 Ika-10 Update ng Lupong Tagapamahala”",
+                        "assignee":"Allendy Valdez",
+                        "time":20
+                    }
+                ],
+                "cbsConductor":"Manuel Rebutido",
+                "cbsReader":"Vincent Serrano",
+                "endingPrayer":"Ricardo Paraohao"
+            },
+            {
+                "date":"Enero 27, 2022",
+                "weeklyBibleReadingSchedule":"RUTH 1 - 2",
+                "chairman":"Wilmar Diampoc",
+                "startingPrayer":"Jemuel Elimanco",
+                "treasuresFromGodsWord": [
+                    {
+                        "title":"“Magpakita ng Tapat na Pag-ibig”",
+                        "assignee":"Patricio Felipe",
+                        "time":10
+                    },
+                    {
+                        "title":"Espirituwal na Hiyas",
+                        "assignee":"Edgar Rualo",
+                        "time":10
+                    }
+                ],
+                "secondHallCouncilor":"William Varila",
+                "secondHallAudience":"G 2",
+                "bibleReading": [
+                    {
+                        "name":"Jon Jon Ocmer",
+                        "assistant":"",
+                        "assignment":0,
+                        "place":1,
+                        "time": 4,
+                        "pointerToReview": 10
+                    },
+                    {
+                        "name":"Kurt Macatunggal",
+                        "assistant":"",
+                        "assignment":0,
+                        "place":2,
+                        "time": 4,
+                        "pointerToReview": 10
+                    }
+                ],
+                "publishersPart":[
+                    [
+                        {
+                            "name":"Dainty Fay Paguirigan",
+                            "assistant":"Mary Jane Serrano",
+                            "title": null,
+                            "assignment":1,
+                            "place":1,
+                            "time": 3,
+                            "pointerToReview": 12
+                        },
+                        {
+                            "name":"Darlene Joy Edar",
+                            "assistant":"Liliosa Maceda",
+                            "title": null,
+                            "assignment":1,
+                            "place":2,
+                            "time": 3,
+                            "pointerToReview": 12
+                        }
+                    ],
+                    [
+                        {
+                            "name":"Norma Ramirez",
+                            "assistant":"Samera Cabasag",
+                            "title": "4 min",
+                            "assignment":2,
+                            "place":1,
+                            "time": 4,
+                            "pointerToReview": 9
+                        },
+                        {
+                            "name":"Jaime Velarde",
+                            "assistant":"Liah Talla",
+                            "title": "4 min",
+                            "assignment":2,
+                            "place":2,
+                            "time": 4,
+                            "pointerToReview": 9
+                        }
+                    ],
+                    [
+                        {
+                            "name":"Dan Felipe",
+                            "assistant":"",
+                            "title": null,
+                            "assignment":4,
+                            "place":1,
+                            "time": 5,
+                            "pointerToReview": 20
+                        },
+                        {
+                            "name":"Noel Serano",
+                            "assistant":"",
+                            "title": null,
+                            "assignment":4,
+                            "place":2,
+                            "time": 5,
+                            "pointerToReview": 20
+                        }
+                    ]
+                ],
+                "music": [
+                    "Awit 108",
+                    "Awit 54",
+                    "Awit 97"
+                ],
+                "livingAsChristians": [
+                    {
+                        "title":"“Magtiwala sa Tapat na Pag-ibig ni Jehova”",
+                        "assignee":"Dan Paguirigan",
+                        "time":15
+                    }
+                ],
+                "cbsConductor":"Eliezer De Vera",
+                "cbsReader":"Gerald Ramento",
+                "endingPrayer":"Ken Velarde"
+            }
+        ]
+    },
+    {
+        "id":"galas022022",
+        "month":"Pebrero",
+        "year":"2022",
+        "color": "#034470",
+        "schedule": [
+            {
+                "date":"Pebrero 3, 2022",
+                "weeklyBibleReadingSchedule":"RUTH 3 - 4",
+                "chairman":"Allendy Valdez",
+                "startingPrayer":"Lemuel Seastres",
+                "treasuresFromGodsWord": [
+                    {
+                        "title":"“Magkaroon ng Magandang Reputasyon at Panatilihin Ito”",
+                        "assignee":"Jemuel Elimanco",
+                        "time":10
+                    },
+                    {
+                        "title":"Espirituwal na Hiyas",
+                        "assignee":"Aries Sales",
+                        "time":10
+                    }
+                ],
+                "secondHallCouncilor":"",
+                "secondHallAudience":"G 3",
+                "bibleReading": [
+                    {
+                        "name":"TJ Oliquino",
+                        "assistant":"",
+                        "assignment":0,
+                        "place":1,
+                        "time": 4,
+                        "pointerToReview": 5
+                    },
+                    {
+                        "name":"",
+                        "assistant":"",
+                        "assignment":0,
+                        "place":2,
+                        "time": 4,
+                        "pointerToReview": 5
+                    }
+                ],
+                "publishersPart":[
+                    [
+                        {
+                            "name":"Allendy Valdez",
+                            "assistant":"",
+                            "title": null,
+                            "assignment":1,
+                            "place":1,
+                            "time": 10,
+                            "pointerToReview": 1,
+                            "isVideo": true
+                        },
+                        {
+                            "name":"",
+                            "assistant":"",
+                            "title": null,
+                            "assignment":1,
+                            "place":2,
+                            "time": 10,
+                            "pointerToReview": 1,
+                            "isVideo": true
+                        }
+                    ],
+                    [
+                        {
+                            "name":"Ana Lyn Sales",
+                            "assistant":"Regina Magallanes",
+                            "title": null,
+                            "assignment":3,
+                            "place":1,
+                            "time": 5,
+                            "pointerToReview": 8
+                        },
+                        {
+                            "name":"",
+                            "assistant":"",
+                            "title": null,
+                            "assignment":3,
+                            "place":2,
+                            "time": 5,
+                            "pointerToReview": 8
+                        }
+                    ]
+                ],
+                "music": [
+                    "Awit 39",
+                    "Awit 24",
+                    "Awit 144"
+                ],
+                "livingAsChristians": [
+                    {
+                        "title":"Lokal na Pangangailangan",
+                        "assignee":"Crispin Carlos",
+                        "time":15
+                    }
+                ],
+                "cbsConductor":"Samuel Manrique",
+                "cbsReader":"Camelo Creus",
+                "endingPrayer":"Patricio Felipe"
+            },
+    
+            {
+                "date":"Pebrero 10, 2022",
+                "weeklyBibleReadingSchedule":"1 SAMUEL 1-2",
+                "chairman":"Eliezer de Vera",
+                "startingPrayer":"Russell Santos",
+                "treasuresFromGodsWord": [
+                    {
+                        "title":"“Ibuhos ang Laman ng Puso Mo kay Jehova sa Panalangin”",
+                        "assignee":"Manuel Rebutido",
+                        "time":10
+                    },
+                    {
+                        "title":"Espirituwal na Hiyas",
+                        "assignee":"Lemuel Seastres",
+                        "time":10
+                    }
+                ],
+                "secondHallCouncilor":"Ken Velarde",
+                "secondHallAudience":"G 4",
+                "bibleReading": [
+                    {
+                        "name":"Kier Kiester Pudra",
+                        "assistant":"",
+                        "assignment":0,
+                        "place":1,
+                        "time": 4,
+                        "pointerToReview": 12
+                    },
+                    {
+                        "name":"Ziv Hayden Pulupul",
+                        "assistant":"",
+                        "assignment":0,
+                        "place":2,
+                        "time": 4,
+                        "pointerToReview": 12
+                    }
+                ],
+                "publishersPart":[
+                    [
+                        {
+                            "name":"Natividad Pantaleon",
+                            "assistant":"Josie Ramirez",
+                            "title": null,
+                            "assignment":1,
+                            "place":1,
+                            "time": 3,
+                            "pointerToReview": 3
+                        },
+                        {
+                            "name":"Linda Amor",
+                            "assistant":"Noime Serano",
+                            "title": null,
+                            "assignment":1,
+                            "place":2,
+                            "time": 3,
+                            "pointerToReview": 3
+                        }
+                    ],
+                    [
+                        {
+                            "name":"Mary Joy Panit",
+                            "assistant":"Kirsten Jael Velarde",
+                            "title": "4 min",
+                            "assignment":2,
+                            "place":1,
+                            "time": 4,
+                            "pointerToReview": 20
+                        },
+                        {
+                            "name":"Zeirele Julianne De Vera",
+                            "assistant":"Jovial Paguirigan",
+                            "title": "4 min",
+                            "assignment":2,
+                            "place":2,
+                            "time": 4,
+                            "pointerToReview": 20
+                        }
+                    ],
+                    [
+                        {
+                            "name":"Rizell Ramento",
+                            "assistant":"Michelle Padilla",
+                            "title": null,
+                            "assignment":3,
+                            "place":1,
+                            "time": 5,
+                            "pointerToReview": 13
+                        },
+                        {
+                            "name":"Ansherina Roualo",
+                            "assistant":"Arlene Edar",
+                            "title": null,
+                            "assignment":3,
+                            "place":2,
+                            "time": 5,
+                            "pointerToReview": 13
+                        }
+                    ]
+                ],
+                "music": [
+                    "Awit 44",
+                    "Awit 133",
+                    "Awit 113"
+                ],
+                "livingAsChristians": [
+                    {
+                        "title":"“Mga Kabataan—Sabihin ang Laman ng Puso Ninyo sa mga Magulang Ninyo”",
+                        "assignee":"Samuel Manrique",
+                        "time":15
+                    }
+                ],
+                "cbsConductor":"Wilmar Diampoc",
+                "cbsReader":"Noel Serrano",
+                "endingPrayer":"Edgardo Rualo"
+            },
+    
+            {
+                "date":"Pebrero 17, 2022",
+                "weeklyBibleReadingSchedule":"1 SAMUEL 3 - 5",
+                "chairman":"Crispin Carlos",
+                "startingPrayer":"Edgar Rualo",
+                "treasuresFromGodsWord": [
+                    {
+                        "title":"“Makonsiderasyon si Jehova”",
+                        "assignee":"William Varila",
+                        "time":10
+                    },
+                    {
+                        "title":"Espirituwal na Hiyas",
+                        "assignee":"Enrique Daquiz",
+                        "time":10
+                    }
+                ],
+                "secondHallCouncilor":"Patricio Felipe",
+                "secondHallAudience":"G 5",
+                "bibleReading": [
+                    {
+                        "name":"John Jefferson Ramirez",
+                        "assistant":"",
+                        "assignment":0,
+                        "place":1,
+                        "time": 4,
+                        "pointerToReview": 10
+                    },
+                    {
+                        "name":"Michael Jeremy Velarde",
+                        "assistant":"",
+                        "assignment":0,
+                        "place":2,
+                        "time": 4,
+                        "pointerToReview": 10
+                    }
+                ],
+                "publishersPart":[
+                    [
+                        {
+                            "name":"Rosie Tuba",
+                            "assistant":"Marivic Teves",
+                            "title": null,
+                            "assignment":1,
+                            "place":1,
+                            "time": 3,
+                            "pointerToReview": 11
+                        },
+                        {
+                            "name":"Vivien Serano",
+                            "assistant":"Norma Ramirez",
+                            "title": null,
+                            "assignment":1,
+                            "place":2,
+                            "time": 3,
+                            "pointerToReview": 11
+                        }
+                    ],
+                    [
+                        {
+                            "name":"Jeremy Rebutido",
+                            "assistant":"Rebecca Manrique",
+                            "title": "4 min",
+                            "assignment":2,
+                            "place":1,
+                            "time": 4,
+                            "pointerToReview": 15
+                        },
+                        {
+                            "name":"Mary Jane Ocmer",
+                            "assistant":"Glenda Pulupol",
+                            "title": "4 min",
+                            "assignment":2,
+                            "place":2,
+                            "time": 4,
+                            "pointerToReview": 15
+                        }
+                    ],
+                    [
+                        {
+                            "name":"Mary Anne Panit",
+                            "assistant":"Norma Panaligan",
+                            "title": null,
+                            "assignment":3,
+                            "place":1,
+                            "time": 5,
+                            "pointerToReview": 14
+                        },
+                        {
+                            "name":"Edith Creus",
+                            "assistant":"Edna Amor",
+                            "title": null,
+                            "assignment":3,
+                            "place":2,
+                            "time": 5,
+                            "pointerToReview": 14
+                        }
+                    ]
+                ],
+                "music": [
+                    "Awit 1",
+                    "Awit 30",
+                    "Awit 99"
+                ],
+                "livingAsChristians": [
+                    {
+                        "title":"“Matuto sa Halimbawa ni Samuel” Pagtalakay.",
+                        "assignee":"Gerardo Ramento",
+                        "time":15
+                    }
+                ],
+                "cbsConductor":"Danny Edar",
+                "cbsReader":"Sean F.Pulupul",
+                "endingPrayer":"Aries Sales"
+            },
+    
+            {
+                "date":"Pebrero 24, 2022",
+                "weeklyBibleReadingSchedule":"1 SAMUEL 6 - 8",
+                "chairman":"Edgar Rualo",
+                "startingPrayer":"Patricio Felipe",
+                "treasuresFromGodsWord": [
+                    {
+                        "title":"“Sino ang Hari Mo?”",
+                        "assignee":"Eliezer De Vera",
+                        "time":10
+                    },
+                    {
+                        "title":"Espirituwal na Hiyas",
+                        "assignee":"Jemuel Elimanco",
+                        "time":10
+                    }
+                ],
+                "secondHallCouncilor":"Ken Velarde",
+                "secondHallAudience":"G 6",
+                "bibleReading": [
+                    {
+                        "name":"Lian Jeliezer De Vera",
+                        "assistant":"",
+                        "assignment":0,
+                        "place":1,
+                        "time": 4,
+                        "pointerToReview": 2
+                    },
+                    {
+                        "name":"Leo Cabrillos",
+                        "assistant":"",
+                        "assignment":0,
+                        "place":2,
+                        "time": 4,
+                        "pointerToReview": 2
+                    }
+                ],
+                "publishersPart":[
+                    [
+                        {
+                            "name":"Raquel Pating",
+                            "assistant":"Sanith Cerbas",
+                            "title": null,
+                            "assignment":1,
+                            "place":1,
+                            "time": 3,
+                            "pointerToReview": 12
+                        },
+                        {
+                            "name":"Elvira Galasi",
+                            "assistant":"Karen Joy Talla",
+                            "title": null,
+                            "assignment":1,
+                            "place":2,
+                            "time": 3,
+                            "pointerToReview": 12
+                        }
+                    ],
+                    [
+                        {
+                            "name":"Samera Cabasag",
+                            "assistant":"Abigael Diampoc",
+                            "title": "4 min",
+                            "assignment":2,
+                            "place":1,
+                            "time": 4,
+                            "pointerToReview": 18
+                        },
+                        {
+                            "name":"Rizalina Diaz",
+                            "assistant":"Amor Magpily",
+                            "title": "4 min",
+                            "assignment":2,
+                            "place":2,
+                            "time": 4,
+                            "pointerToReview": 18
+                        }
+                    ],
+                    [
+                        {
+                            "name":"Delia Talla",
+                            "assistant":"Maica Mañabo",
+                            "title": null,
+                            "assignment":3,
+                            "place":1,
+                            "time": 5,
+                            "pointerToReview": 20
+                        },
+                        {
+                            "name":"Rebecca Varilla",
+                            "assistant":"Jeanel Rose Serano",
+                            "title": null,
+                            "assignment":3,
+                            "place":2,
+                            "time": 5,
+                            "pointerToReview": 20
+                        }
+                    ]
+                ],
+                "music": [
+                    "Awit 9",
+                    "Awit 28",
+                    "Awit 35"
+                ],
+                "livingAsChristians": [
+                    {
+                        "title":"Lokal na Pangangailangan",
+                        "assignee":"Aries Sales",
+                        "time":10
+                    },
+                    {
+                        "title":"Mag-o-auxiliary Pioneer Ka Ba sa Marso o Abril?",
+                        "assignee":"Allendy Valdez",
+                        "time":5
+                    }
+                ],
+                "cbsConductor":"Samuel Manrique",
+                "cbsReader":"Vincent Serrano",
+                "endingPrayer":"Manuel Rebutido"
+            },
+    
+            {
+                "date":"March 3, 2022",
+                "weeklyBibleReadingSchedule":"1 SAMUEL 9-11",
+                "chairman":"Dan Paguirigan",
+                "startingPrayer":"Allendy Valdez",
+                "treasuresFromGodsWord": [
+                    {
+                        "title":"“Mapagpakumbaba si Saul Noong Una”",
+                        "assignee":"Russell Santos",
+                        "time":10
+                    },
+                    {
+                        "title":"Espirituwal na Hiyas",
+                        "assignee":"Ken Velarde",
+                        "time":10
+                    }
+                ],
+                "secondHallCouncilor":"",
+                "secondHallAudience":"G 1",
+                "bibleReading": [
+                    {
+                        "name":"Dan Felipe",
+                        "assistant":"",
+                        "assignment":0,
+                        "place":1,
+                        "time": 4,
+                        "pointerToReview": 5
+                    },
+                    {
+                        "name":"",
+                        "assistant":"",
+                        "assignment":0,
+                        "place":2,
+                        "time": 4,
+                        "pointerToReview": 5
+                    }
+                ],
+                "publishersPart":[
+                    [
+                        {
+                            "name":"Dan Paguirigan",
+                            "assistant":"",
+                            "title": null,
+                            "assignment":2,
+                            "place":1,
+                            "time": 10,
+                            "pointerToReview": 1,
+                            "isVideo": true
+                        },
+                        {
+                            "name":"",
+                            "assistant":"",
+                            "title": null,
+                            "assignment":2,
+                            "place":2,
+                            "time": 10,
+                            "pointerToReview": 1,
+                            "isVideo": true
+                        }
+                    ],
+                    [
+                        {
+                            "name":"Patricio Felipe",
+                            "assistant":"",
+                            "title": null,
+                            "assignment":4,
+                            "place":1,
+                            "time": 5,
+                            "pointerToReview": 19
+                        },
+                        {
+                            "name":"",
+                            "assistant":"",
+                            "title": null,
+                            "assignment":4,
+                            "place":2,
+                            "time": 5,
+                            "pointerToReview": 19
+                        }
+                    ]
+                ],
+                "music": [
+                    "Awit 121",
+                    "Awit 37",
+                    "Awit 123"
+                ],
+                "livingAsChristians": [
+                    {
+                        "title":"Taunang Ulat ng Paglilingkod",
+                        "assignee":"Danny Edar",
+                        "time":15
+                    }
+                ],
+                "cbsConductor":"Gerardo Ramento",
+                "cbsReader":"Gerald Ramento",
+                "endingPrayer":"William Varila"
+            }
+        ]
+    },
+    {
+        "id":"galas032022",
+        "month":"Marso",
+        "year":"2022",
+        "color": "#11483f",
+        "schedule": [
+            {
+                "date":"Marso 10, 2022",
+                "weeklyBibleReadingSchedule":"1 SAMUEL 12-13",
+                "chairman":"Edgardo Rualo",
+                "startingPrayer":"Enrique Daquiz",
+                "treasuresFromGodsWord": [
+                    {
+                        "title":"“Humahantong sa Kahihiyan ang Kapangahasan”",
+                        "assignee":"Aries Sales",
+                        "time":10
+                    },
+                    {
+                        "title":"Espirituwal na Hiyas",
+                        "assignee":"Patricio Felipe",
+                        "time":10
+                    }
+                ],
+                "secondHallCouncilor":"Lemuel Seastres",
+                "secondHallAudience":"G 2",
+                "bibleReading": [
+                    {
+                        "name":"Jerrymee Ramirez",
+                        "assistant":"",
+                        "assignment":0,
+                        "place":1,
+                        "time": 4,
+                        "pointerToReview": 2
+                    },
+                    {
+                        "name":"Sonny Custosa",
+                        "assistant":"",
+                        "assignment":0,
+                        "place":2,
+                        "time": 4,
+                        "pointerToReview": 2
+                    }
+                ],
+                "publishersPart":[
+                    [
+                        {
+                            "name":"Wilmar Diampoc",
+                            "assistant":"",
+                            "title": null,
+                            "assignment":1,
+                            "place":1,
+                            "time": 5,
+                            "pointerToReview": 1,
+                            "isVideo": true
+                        },
+                        {
+                            "name":"Lemuel Seastres",
+                            "assistant":"",
+                            "title": null,
+                            "assignment":1,
+                            "place":2,
+                            "time": 5,
+                            "pointerToReview": 1,
+                            "isVideo": true
+                        }
+                    ],
+                    [
+                        {
+                            "name":"Shiela Marie Buenaflor",
+                            "assistant":"Jovial Paguirigan",
+                            "title": null,
+                            "assignment":1,
+                            "place":1,
+                            "time": 3,
+                            "pointerToReview": 1,
+                            "isVideo": false
+                        },
+                        {
+                            "name":"Nica Santos",
+                            "assistant":"Zeirele Julianne De Vera",
+                            "title": null,
+                            "assignment":1,
+                            "place":2,
+                            "time": 3,
+                            "pointerToReview": 1,
+                            "isVideo": false
+                        }
+                    ],
+                    [
+                        {
+                            "name":"Osias Cabasag",
+                            "assistant":"Gerald Ramento",
+                            "title": null,
+                            "assignment":3,
+                            "place":1,
+                            "time": 5,
+                            "pointerToReview": 13
+                        },
+                        {
+                            "name":"Teresita Amor",
+                            "assistant":"Shimei Raizza Manrique",
+                            "title": null,
+                            "assignment":3,
+                            "place":2,
+                            "time": 5,
+                            "pointerToReview": 13
+                        }
+                    ]
+                ],
+                "music": [
+                    "Awit 4",
+                    "Awit 46",
+                    "Awit 26"
+                ],
+                "livingAsChristians": [
+                    {
+                        "title":"Mga Nagawa ng Organisasyon",
+                        "assignee":"Edgardo Rualo",
+                        "time":5
+                    },
+                    {
+                        "title":"Lokal na Pangangailangan",
+                        "assignee":"Gerardo Ramento",
+                        "time":10
+                    }
+                ],
+                "cbsConductor":"Allendy Valdez",
+                "cbsReader":"Camelo Creus",
+                "endingPrayer":"Ken Velarde"
+            },
+            {
+                "date":"Marso 17, 2022",
+                "weeklyBibleReadingSchedule":"1 SAMUEL 14-15",
+                "chairman":"Samuel Manrique",
+                "startingPrayer":"Jemuel Elimanco",
+                "treasuresFromGodsWord": [
+                    {
+                        "title":"“Mas Mahalaga ang Pagsunod Kaysa sa Hain”",
+                        "assignee":"Ken Velarde",
+                        "time":10
+                    },
+                    {
+                        "title":"Espirituwal na Hiyas",
+                        "assignee":"Eliezer De Vera",
+                        "time":10
+                    }
+                ],
+                "secondHallCouncilor":"William Varila",
+                "secondHallAudience":"G 3",
+                "bibleReading": [
+                    {
+                        "name":"Sherwin Jalbuena",
+                        "assistant":"",
+                        "assignment":0,
+                        "place":1,
+                        "time": 4,
+                        "pointerToReview": 2
+                    },
+                    {
+                        "name":"Clark Isidro",
+                        "assistant":"",
+                        "assignment":0,
+                        "place":2,
+                        "time": 4,
+                        "pointerToReview": 2
+                    }
+                ],
+                "publishersPart":[
+                    [
+                        {
+                            "name":"Samuel Manrique",
+                            "assistant":"",
+                            "title": null,
+                            "assignment":2,
+                            "place":1,
+                            "time": 5,
+                            "pointerToReview": 1,
+                            "isVideo": true
+                        },
+                        {
+                            "name":"",
+                            "assistant":"",
+                            "title": null,
+                            "assignment":2,
+                            "place":2,
+                            "time": 5,
+                            "pointerToReview": 1,
+                            "isVideo": true
+                        }
+                    ],
+                    [
+                        {
+                            "name":"Danielle Mendoza",
+                            "assistant":"Julie De Vera",
+                            "title": null,
+                            "assignment":2,
+                            "place":1,
+                            "time": 4,
+                            "pointerToReview": 3,
+                            "isVideo": false
+                        },
+                        {
+                            "name":"Reizele Juls De Vera",
+                            "assistant":"Mika Vernadeth Sing",
+                            "title": null,
+                            "assignment":2,
+                            "place":2,
+                            "time": 4,
+                            "pointerToReview": 3,
+                            "isVideo": false
+                        }
+                    ],
+                    [
+                        {
+                            "name":"Camelo Creus",
+                            "assistant":"Vincent Serrano",
+                            "title": null,
+                            "assignment":2,
+                            "place":1,
+                            "time": 4,
+                            "pointerToReview": 11
+                        },
+                        {
+                            "name":"Eloiza Dacanay",
+                            "assistant":"Rhea Diaz",
+                            "title": null,
+                            "assignment":2,
+                            "place":2,
+                            "time": 4,
+                            "pointerToReview": 11
+                        }
+                    ]
+                ],
+                "music": [
+                    "Awit 89",
+                    "Awit 61",
+                    "Awit 10"
+                ],
+                "livingAsChristians": [
+                    {
+                        "title":"Magsisimula ang Kampanya Para sa Memoryal sa Sa-bado, Marso 19",
+                        "assignee":"Edgardo Rualo",
+                        "time":10
+                    },
+                    {
+                        "title":"Maging Kaibigan ni Jehova—Sundin si Jehova",
+                        "assignee":"Danny Edar",
+                        "time":5
+                    }
+                ],
+                "cbsConductor":"Aries Sales",
+                "cbsReader":"Noel Serrano",
+                "endingPrayer":"Russel Santos"
+            },
+            {
+                "date":"Marso 24, 2022",
+                "weeklyBibleReadingSchedule":"1 SAMUEL 16-17",
+                "chairman":"Manuel Rebutido",
+                "startingPrayer":"Patricio Felipe",
+                "treasuresFromGodsWord": [
+                    {
+                        "title":"“Kay Jehova ang Labanan”",
+                        "assignee":"Lemuel Seastres",
+                        "time":10
+                    },
+                    {
+                        "title":"Espirituwal na Hiyas",
+                        "assignee":"Enrique Daquiz",
+                        "time":10
+                    }
+                ],
+                "secondHallCouncilor":"Ken Velarde",
+                "secondHallAudience":"G 3",
+                "bibleReading": [
+                    {
+                        "name":"Ronald Magpily",
+                        "assistant":"",
+                        "assignment":0,
+                        "place":1,
+                        "time": 4,
+                        "pointerToReview": 5
+                    },
+                    {
+                        "name":"Antolin Diaz",
+                        "assistant":"",
+                        "assignment":0,
+                        "place":2,
+                        "time": 4,
+                        "pointerToReview": 5
+                    }
+                ],
+                "publishersPart":[
+                    [
+                        {
+                            "name":"Lorraine Manrique",
+                            "assistant":"Dely Oliquino",
+                            "title": null,
+                            "assignment":10,
+                            "place":1,
+                            "time": 2,
+                            "pointerToReview": 11,
+                            "isVideo": false,
+                            "notes": "Pag-iimbita sa Memoryal (2 min)"
+                        },
+                        {
+                            "name":"Chona Tapel",
+                            "assistant":"Jaime Velarde",
+                            "title": null,
+                            "assignment":10,
+                            "place":2,
+                            "time": 2,
+                            "pointerToReview": 11,
+                            "isVideo": false,
+                            "notes": "Pag-iimbita sa Memoryal (2 min)"
+                        }
+                    ],
+                    [
+                        {
+                            "name":"Dolores Carlos",
+                            "assistant":"Anna Rualo",
+                            "title": null,
+                            "assignment":10,
+                            "place":1,
+                            "time": 3,
+                            "pointerToReview": 2,
+                            "isVideo": false,
+                            "notes": "Pag-iimbita sa Memoryal (3 min)"
+                        },
+                        {
+                            "name":"MJ Oliquino",
+                            "assistant":"Cellie Ramento",
+                            "title": null,
+                            "assignment":10,
+                            "place":2,
+                            "time": 3,
+                            "pointerToReview": 2,
+                            "isVideo": false,
+                            "notes": "Pag-iimbita sa Memoryal (3 min)"
+                        }
+                    ],
+                    [
+                        {
+                            "name":"Maricar Isidro",
+                            "assistant":"Luzmin Pudra",
+                            "title": null,
+                            "assignment":2,
+                            "place":1,
+                            "time": 3,
+                            "pointerToReview": 4,
+                            "isVideo": false
+                        },
+                        {
+                            "name":"Gina Hoybia",
+                            "assistant":"Lora Lhee Ocmer",
+                            "title": null,
+                            "assignment":2,
+                            "place":2,
+                            "time": 3,
+                            "pointerToReview": 4,
+                            "isVideo": false
+                        }
+                    ],
+                    [
+                        {
+                            "name":"Melanie Gerna",
+                            "assistant":"Jeanalyn Mota",
+                            "title": null,
+                            "assignment":2,
+                            "place":1,
+                            "time": 3,
+                            "pointerToReview": 20
+                        },
+                        {
+                            "name":"Paulyn Elimanco",
+                            "assistant":"Daisy Mendoza",
+                            "title": null,
+                            "assignment":2,
+                            "place":2,
+                            "time": 3,
+                            "pointerToReview": 20
+                        }
+                    ]
+                ],
+                "music": [
+                    "Awit 7",
+                    "Awit 150",
+                    "Awit 13"
+                ],
+                "livingAsChristians": [
+                    {
+                        "title":"“Tatlong Paraan Para Maipakitang Nagtitiwala Ka kay Jehova”",
+                        "assignee":"Allendy Valdez",
+                        "time":15
+                    }
+                ],
+                "cbsConductor":"Crispin Carlos",
+                "cbsReader":"Sean Pulupul",
+                "endingPrayer":"William Varila"
+            },
+            {
+                "date":"Marso 31, 2022",
+                "weeklyBibleReadingSchedule":"1 SAMUEL 18-19",
+                "chairman":"Danny Edar",
+                "startingPrayer":"Russel Santos",
+                "treasuresFromGodsWord": [
+                    {
+                        "title":"“Manatiling Mapagpakumbaba KapagNagtagumpay Ka”",
+                        "assignee":"William Varila",
+                        "time":10
+                    },
+                    {
+                        "title":"Espirituwal na Hiyas",
+                        "assignee":"Jemuel Elimanco",
+                        "time":10
+                    }
+                ],
+                "secondHallCouncilor":"",
+                "secondHallAudience":"G 3",
+                "bibleReading": [
+                    {
+                        "name":"Jon Jon Ocmer",
+                        "assistant":"",
+                        "assignment":0,
+                        "place":1,
+                        "time": 4,
+                        "pointerToReview": 11
+                    },
+                    {
+                        "name":"",
+                        "assistant":"",
+                        "assignment":0,
+                        "place":2,
+                        "time": 4,
+                        "pointerToReview": 11
+                    }
+                ],
+                "publishersPart":[
+                    [
+                        {
+                            "name":"Danny Edar",
+                            "assistant":"",
+                            "title": "Tulungan ang mga Bible Study na Daigin ang Maruruming Bisyo",
+                            "assignment":5,
+                            "place":1,
+                            "time": 10,
+                            "pointerToReview": 1,
+                            "isVideo": true
+                        },
+                        {
+                            "name":"",
+                            "assistant":"",
+                            "title": "Tulungan ang mga Bible Study na Daigin ang Maruruming Bisyo",
+                            "assignment":5,
+                            "place":2,
+                            "time": 10,
+                            "pointerToReview": 1,
+                            "isVideo": true
+                        }
+                    ],
+                    [
+                        {
+                            "name":"Lian Jeliezer De Vera",
+                            "assistant":"",
+                            "title": null,
+                            "assignment":4,
+                            "place":1,
+                            "time": 5,
+                            "pointerToReview": 13
+                        },
+                        {
+                            "name":"",
+                            "assistant":"",
+                            "title": null,
+                            "assignment":4,
+                            "place":2,
+                            "time": 5,
+                            "pointerToReview": 13
+                        }
+                    ]
+                ],
+                "music": [
+                    "Awit 36",
+                    "Awit 31",
+                    "Awit 2"
+                ],
+                "livingAsChristians": [
+                    {
+                        "title":"Lokal na Pangangailangan",
+                        "assignee":"Dan Paguirigan",
+                        "time":15
+                    }
+                ],
+                "cbsConductor":"Gerardo Ramento",
+                "cbsReader":"Vincent Serrano",
+                "endingPrayer":"Lemuel Seastres"
+            }
+        ]
+    },
+    {
+        "id":"galas042022",
+        "month":"Abril",
+        "year":"2022",
+        "color": "#11483f",
+        "schedule": [
+            {
+                "date":"Abril 7, 2022",
+                "weeklyBibleReadingSchedule":"1 SAMUEL 20-22",
+                "chairman":"Gerardo Ramento",
+                "startingPrayer":"Ken Velarde",
+                "treasuresFromGodsWord": [
+                    {
+                        "title":"“Kung Paano Magiging Mabuting Kaibigan”",
+                        "assignee":"Jemuel Elimanco",
+                        "time":10
+                    },
+                    {
+                        "title":"Espirituwal na Hiyas",
+                        "assignee":"Patricio Felipe",
+                        "time":10
+                    }
+                ],
+                "secondHallCouncilor":"Lemuel Seastres",
+                "secondHallAudience":"G 2",
+                "bibleReading": [
+                    {
+                        "name":"TJ Oliquino",
+                        "assistant":"",
+                        "assignment":0,
+                        "place":1,
+                        "time": 4,
+                        "pointerToReview": 5
+                    },
+                    {
+                        "name":"Ziv Hayden Pulupul",
+                        "assistant":"",
+                        "assignment":0,
+                        "place":2,
+                        "time": 4,
+                        "pointerToReview": 5
+                    }
+                ],
+                "publishersPart":[
+                    [
+                        {
+                            "name":"Kirsten Jael Velarde",
+                            "assistant":"Dainty Fay Paguirigan",
+                            "title": null,
+                            "assignment":2,
+                            "place":1,
+                            "time": 2,
+                            "pointerToReview": 6,
+                            "isVideo": false
+                        },
+                        {
+                            "name":"Hannahgene Carlos",
+                            "assistant":"Mary Jane Serrano",
+                            "title": null,
+                            "assignment":2,
+                            "place":2,
+                            "time": 2,
+                            "pointerToReview": 6,
+                            "isVideo": false
+                        }
+                    ],
+                    [
+                        {
+                            "name":"Alyiah Amor Magpily",
+                            "assistant":"Ansherina Rualo",
+                            "title": null,
+                            "assignment":2,
+                            "place":1,
+                            "time": 5,
+                            "pointerToReview": 12,
+                            "isVideo": false
+                        },
+                        {
+                            "name":"Rhoda Magalong",
+                            "assistant":"Darlene Joy Edar",
+                            "title": null,
+                            "assignment":2,
+                            "place":2,
+                            "time": 5,
+                            "pointerToReview": 12,
+                            "isVideo": false
+                        }
+                    ],
+                    [
+                        {
+                            "name":"Joyce Dela Cruz",
+                            "assistant":"Noime Serrano",
+                            "title": null,
+                            "assignment":3,
+                            "place":1,
+                            "time": 5,
+                            "pointerToReview": 20
+                        },
+                        {
+                            "name":"Liah Talla",
+                            "assistant":"Regina Magallanes",
+                            "title": null,
+                            "assignment":3,
+                            "place":2,
+                            "time": 5,
+                            "pointerToReview": 20
+                        }
+                    ]
+                ],
+                "music": [
+                    "Awit 90",
+                    "Awit 85",
+                    "Awit 95"
+                ],
+                "livingAsChristians": [
+                    {
+                        "title":"“Sino ang mga Kaibigan Mo Online?”",
+                        "assignee":"Wilmar Diampoc",
+                        "time":10
+                    },
+                    {
+                        "title":"Tanggapin ang Ating mga Bisita",
+                        "assignee":"Allendy Valdez",
+                        "time":5
+                    }
+                ],
+                "cbsConductor":"Dan Paguirigan",
+                "cbsReader":"Gerald Ramento",
+                "endingPrayer":"Russel Santos"
+            },
+            {
+                "date":"Abril 21, 2022",
+                "weeklyBibleReadingSchedule":"1 SAMUEL 23-24",
+                "chairman":"Aries Sales",
+                "startingPrayer":"William Varila",
+                "treasuresFromGodsWord": [
+                    {
+                        "title":"“Matiyagang Maghintay kay Jehova”",
+                        "assignee":"Russel Santos",
+                        "time":10
+                    },
+                    {
+                        "title":"Espirituwal na Hiyas",
+                        "assignee":"Jemuel Elimanco",
+                        "time":10
+                    }
+                ],
+                "secondHallCouncilor":"William Varila",
+                "secondHallAudience":"G 3",
+                "bibleReading": [
+                    {
+                        "name":"Kier Kiester Pudra",
+                        "assistant":"",
+                        "assignment":0,
+                        "place":1,
+                        "time": 4,
+                        "pointerToReview": 10
+                    },
+                    {
+                        "name":"Michael Jeremy Velarde",
+                        "assistant":"",
+                        "assignment":0,
+                        "place":2,
+                        "time": 4,
+                        "pointerToReview": 10
+                    }
+                ],
+                "publishersPart":[
+                    [
+                        {
+                            "name":"Arlene Edar",
+                            "assistant":"Rizell Ramento",
+                            "title": null,
+                            "assignment":1,
+                            "place":1,
+                            "time": 3,
+                            "pointerToReview": 6,
+                            "isVideo": false
+                        },
+                        {
+                            "name":"Natividad Pantaleon",
+                            "assistant":"Liliosa Maceda",
+                            "title": null,
+                            "assignment":1,
+                            "place":2,
+                            "time": 3,
+                            "pointerToReview": 6,
+                            "isVideo": false
+                        }
+                    ],
+                    [
+                        {
+                            "name":"Rosie Tuba",
+                            "assistant":"Mary Joy Panit",
+                            "title": null,
+                            "assignment":2,
+                            "place":1,
+                            "time": 4,
+                            "pointerToReview": 13,
+                            "isVideo": false
+                        },
+                        {
+                            "name":"Josie Ramirez",
+                            "assistant":"Jovial Paguirigan",
+                            "title": null,
+                            "assignment":2,
+                            "place":2,
+                            "time": 4,
+                            "pointerToReview": 13,
+                            "isVideo": false
+                        }
+                    ],
+                    [
+                        {
+                            "name":"Patricio Felipe",
+                            "assistant":"",
+                            "title": null,
+                            "assignment":4,
+                            "place":1,
+                            "time": 5,
+                            "pointerToReview": 14
+                        },
+                        {
+                            "name":"Dan Felipe",
+                            "assistant":"",
+                            "title": null,
+                            "assignment":4,
+                            "place":2,
+                            "time": 5,
+                            "pointerToReview": 14
+                        }
+                    ]
+                ],
+                "music": [
+                    "Awit 114",
+                    "Awit 128",
+                    "Awit 96"
+                ],
+                "livingAsChristians": [
+                    {
+                        "title":"“May Katapusan ang Lahat ng Problema”",
+                        "assignee":"Crispin Carlos",
+                        "time":15
+                    }
+                ],
+                "cbsConductor":"Edgardo Rualo",
+                "cbsReader":"Camelo Creus",
+                "endingPrayer":"Eliezer De Vera"
+            },
+            {
+                "date":"Abril 28, 2022",
+                "weeklyBibleReadingSchedule":"1 SAMUEL 25-26",
+                "chairman":"Allendy Valdez",
+                "startingPrayer":"William Varila",
+                "treasuresFromGodsWord": [
+                    {
+                        "title":"“Padalos-dalos Ka Ba?”",
+                        "assignee":"Ken Velarde",
+                        "time":10
+                    },
+                    {
+                        "title":"Espirituwal na Hiyas",
+                        "assignee":"Jemuel Elimanco",
+                        "time":10
+                    }
+                ],
+                "secondHallCouncilor":"",
+                "secondHallAudience":"G 3",
+                "bibleReading": [
+                    {
+                        "name":"John Jefferson Ramirez",
+                        "assistant":"",
+                        "assignment":0,
+                        "place":1,
+                        "time": 4,
+                        "pointerToReview": 2
+                    },
+                    {
+                        "name":"",
+                        "assistant":"",
+                        "assignment":0,
+                        "place":2,
+                        "time": 4,
+                        "pointerToReview": 2
+                    }
+                ],
+                "publishersPart":[
+                    [
+                        {
+                            "name":"Allendy Valdez",
+                            "assistant":"",
+                            "title": "Tulungan ang mga Bible Study na Magkaroon ng Malapit na Kaugnayan kay Jehova",
+                            "assignment":5,
+                            "place":1,
+                            "time": 10,
+                            "pointerToReview": 11,
+                            "isVideo": true
+                        },
+                        {
+                            "name":"",
+                            "assistant":"",
+                            "title": "Tulungan ang mga Bible Study na Magkaroon ng Malapit na Kaugnayan kay Jehova",
+                            "assignment":5,
+                            "place":2,
+                            "time": 10,
+                            "pointerToReview": 11,
+                            "isVideo": true
+                        }
+                    ],
+                    [
+                        {
+                            "name":"Zeirele Julianne De Vera",
+                            "assistant":"Anna Lyn Sales",
+                            "title": null,
+                            "assignment":3,
+                            "place":1,
+                            "time": 5,
+                            "pointerToReview": 9,
+                            "isVideo": false
+                        },
+                        {
+                            "name":"",
+                            "assistant":"",
+                            "title": null,
+                            "assignment":3,
+                            "place":2,
+                            "time": 5,
+                            "pointerToReview": 9,
+                            "isVideo": false
+                        }
+                    ]
+                ],
+                "music": [
+                    "Awit 130",
+                    "Awit 126",
+                    "Awit 98"
+                ],
+                "livingAsChristians": [
+                    {
+                        "title":"Lokal na Pangangailangan",
+                        "assignee":"Danny Edar",
+                        "time":15
+                    }
+                ],
+                "cbsConductor":"Eliezer De Vera",
+                "cbsReader":"",
+                "endingPrayer":"Emmanuel Magallanes"
+            }
+        ]
+    },
+    {
+        "id":"galas052022",
+        "month":"Mayo",
+        "year":"2022",
+        "color": "#551544",
+        "schedule": [
+            {
+                "date":"Mayo 5, 2022",
+                "weeklyBibleReadingSchedule":"1 SAMUEL 20-22",
+                "chairman":"Crispin Carlos",
+                "startingPrayer":"Patricio Felipe",
+                "treasuresFromGodsWord": [
+                    {
+                        "title":"“Ang Plano ni David sa Pakikipaglaban”",
+                        "assignee":"Russel Santos",
+                        "time":10
+                    },
+                    {
+                        "title":"Espirituwal na Hiyas",
+                        "assignee":"Eliezer De Vera",
+                        "time":10
+                    }
+                ],
+                "secondHallCouncilor":"Lemuel Seastres",
+                "secondHallAudience":"G 2",
+                "bibleReading": [
+                    {
+                        "name":"Lhuke Padilla",
+                        "assistant":"",
+                        "assignment":0,
+                        "place":1,
+                        "time": 4,
+                        "pointerToReview": 5
+                    },
+                    {
+                        "name":"Sonny Custosa",
+                        "assistant":"",
+                        "assignment":0,
+                        "place":2,
+                        "time": 4,
+                        "pointerToReview": 5
+                    }
+                ],
+                "publishersPart":[
+                    [
+                        {
+                            "name":"Crispin Carlos",
+                            "assistant":"",
+                            "title": null,
+                            "assignment":1,
+                            "place":1,
+                            "time": 5,
+                            "pointerToReview": 6,
+                            "isVideo": true
+                        },
+                        {
+                            "name":"",
+                            "assistant":"",
+                            "title": null,
+                            "assignment":2,
+                            "place":2,
+                            "time": 5,
+                            "pointerToReview": 6,
+                            "isVideo": true
+                        }
+                    ],
+                    [
+                        {
+                            "name":"Perlita Cariazo",
+                            "assistant":"Susan Cerbas",
+                            "title": null,
+                            "assignment":1,
+                            "place":1,
+                            "time": 3,
+                            "pointerToReview": 1,
+                            "isVideo": false
+                        },
+                        {
+                            "name":"Marivic Teves",
+                            "assistant":"Linda Amor",
+                            "title": null,
+                            "assignment":1,
+                            "place":2,
+                            "time": 3,
+                            "pointerToReview": 1,
+                            "isVideo": false
+                        }
+                    ],
+                    [
+                        {
+                            "name":"Norma Ramirez",
+                            "assistant":"Vivien Serrano",
+                            "title": null,
+                            "assignment":1,
+                            "place":1,
+                            "time": 5,
+                            "pointerToReview": 6
+                        },
+                        {
+                            "name":"Glenda Pulupul",
+                            "assistant":"Jeremy Rebutido",
+                            "title": null,
+                            "assignment":1,
+                            "place":2,
+                            "time": 5,
+                            "pointerToReview": 6
+                        }
+                    ]
+                ],
+                "music": [
+                    "Awit 71",
+                    "Awit 129",
+                    "Awit 94"
+                ],
+                "livingAsChristians": [
+                    {
+                        "title":"Matatag Kahit May Pag-uusig",
+                        "assignee":"Wilmar Diampoc",
+                        "time":15
+                    }
+                ],
+                "cbsConductor":"Allendy Valdez",
+                "cbsReader":"Noel Serrano",
+                "endingPrayer":"Ken Velarde"
+            },
+            {
+                "date":"Mayo 12, 2022",
+                "weeklyBibleReadingSchedule":"1 SAMUEL 30-31",
+                "chairman":"Dan Paguirigan",
+                "startingPrayer":"Enrique Daquiz",
+                "treasuresFromGodsWord": [
+                    {
+                        "title":"“Patibayin ang Sarili sa Tulong ng Diyos na Jehova”",
+                        "assignee":"Jemuel Elimanco",
+                        "time":10
+                    },
+                    {
+                        "title":"Espirituwal na Hiyas",
+                        "assignee":"Lemuel Seastres",
+                        "time":10
+                    }
+                ],
+                "secondHallCouncilor":"William Varila",
+                "secondHallAudience":"G 2",
+                "bibleReading": [
+                    {
+                        "name":"Leo Cabrillos",
+                        "assistant":"",
+                        "assignment":0,
+                        "place":1,
+                        "time": 4,
+                        "pointerToReview": 2
+                    },
+                    {
+                        "name":"Clark Isidro",
+                        "assistant":"",
+                        "assignment":0,
+                        "place":2,
+                        "time": 4,
+                        "pointerToReview": 2
+                    }
+                ],
+                "publishersPart":[
+                    [
+                        {
+                            "name":"Dan Paguirigan",
+                            "assistant":"",
+                            "title": null,
+                            "assignment":2,
+                            "place":1,
+                            "time": 2,
+                            "pointerToReview": 6,
+                            "isVideo": true
+                        },
+                        {
+                            "name":"",
+                            "assistant":"",
+                            "title": null,
+                            "assignment":2,
+                            "place":2,
+                            "time": 2,
+                            "pointerToReview": 6,
+                            "isVideo": true
+                        }
+                    ],
+                    [
+                        {
+                            "name":"Ansherina Rualo",
+                            "assistant":"Rebecca Manrique",
+                            "title": null,
+                            "assignment":2,
+                            "place":1,
+                            "time": 3,
+                            "pointerToReview": 8,
+                            "isVideo": false
+                        },
+                        {
+                            "name":"Norma Panaligan",
+                            "assistant":"Mary Anne Panit",
+                            "title": null,
+                            "assignment":2,
+                            "place":2,
+                            "time": 3,
+                            "pointerToReview": 8,
+                            "isVideo": false
+                        }
+                    ],
+                    [
+                        {
+                            "name":"Edna Amor",
+                            "assistant":"Mary Jane Ocmer",
+                            "title": null,
+                            "assignment":2,
+                            "place":1,
+                            "time": 5,
+                            "pointerToReview": 16
+                        },
+                        {
+                            "name":"Karen Joy Talla",
+                            "assistant":"Editha Creus",
+                            "title": null,
+                            "assignment":2,
+                            "place":2,
+                            "time": 5,
+                            "pointerToReview": 16
+                        }
+                    ]
+                ],
+                "music": [
+                    "Awit 8",
+                    "Awit 143",
+                    "Awit 95"
+                ],
+                "livingAsChristians": [
+                    {
+                        "title":"Maging Kaibigan ni Jehova—Laging Manalangin",
+                        "assignee":"Ken Velarde",
+                        "time":5
+                    },
+                    {
+                        "title":"Lokal na Pangangailangan",
+                        "assignee":"Allendy Valdez",
+                        "time":10
+                    }
+                ],
+                "cbsConductor":"Aries Sales",
+                "cbsReader":"",
+                "endingPrayer":"Russel Santos"
+            },
+            {
+                "date":"Mayo 19, 2022",
+                "weeklyBibleReadingSchedule":"1 SAMUEL 30-31",
+                "chairman":"Edgardo Rualo",
+                "startingPrayer":"",
+                "treasuresFromGodsWord": [
+                    {
+                        "title":"“Ano ang Matututuhan Natin sa ‘Ang Pana’?”",
+                        "assignee":"Gerardo Ramento",
+                        "time":10
+                    },
+                    {
+                        "title":"Espirituwal na Hiyas",
+                        "assignee":"William Varila",
+                        "time":10
+                    }
+                ],
+                "secondHallCouncilor":"Aries Sales",
+                "secondHallAudience":"G 2",
+                "bibleReading": [
+                    {
+                        "name":"Sherwin Jalbuena",
+                        "assistant":"",
+                        "assignment":0,
+                        "place":1,
+                        "time": 4,
+                        "pointerToReview": 5
+                    },
+                    {
+                        "name":"Ronald Magpily",
+                        "assistant":"",
+                        "assignment":0,
+                        "place":2,
+                        "time": 4,
+                        "pointerToReview": 5
+                    }
+                ],
+                "publishersPart":[
+                    [
+                        {
+                            "name":"Josie Ramirez",
+                            "assistant":"Rebecca Varila",
+                            "title": null,
+                            "assignment":1,
+                            "place":1,
+                            "time": 3,
+                            "pointerToReview": 3,
+                            "isVideo": false
+                        },
+                        {
+                            "name":"Sanith Cerbas",
+                            "assistant":"Elvira Galasi",
+                            "title": null,
+                            "assignment":1,
+                            "place":2,
+                            "time": 3,
+                            "pointerToReview": 3,
+                            "isVideo": false
+                        }
+                    ],
+                    [
+                        {
+                            "name":"Maica Mañabo",
+                            "assistant":"Delia Talla",
+                            "title": null,
+                            "assignment":2,
+                            "place":1,
+                            "time": 4,
+                            "pointerToReview": 20,
+                            "isVideo": false
+                        },
+                        {
+                            "name":"Shimei Raizza Manrique",
+                            "assistant":"Rizalina Diaz",
+                            "title": null,
+                            "assignment":2,
+                            "place":2,
+                            "time": 4,
+                            "pointerToReview": 20,
+                            "isVideo": false
+                        }
+                    ],
+                    [
+                        {
+                            "name":"Abigael Diampoc",
+                            "assistant":"Raquel Pating",
+                            "title": null,
+                            "assignment":3,
+                            "place":1,
+                            "time": 5,
+                            "pointerToReview": 19
+                        },
+                        {
+                            "name":"Mika Vernadeth Sing",
+                            "assistant":"Nica Santos",
+                            "title": null,
+                            "assignment":3,
+                            "place":2,
+                            "time": 5,
+                            "pointerToReview": 19
+                        }
+                    ]
+                ],
+                "music": [
+                    "Awit 103",
+                    "Awit 107",
+                    "Awit 2"
+                ],
+                "livingAsChristians": [
+                    {
+                        "title":"“‘Ang Pag-ibig ay Hindi Natutuwa sa Kasamaan’”",
+                        "assignee":"Patricio Felipe",
+                        "time":7
+                    },
+                    {
+                        "title":"“‘Inaasahan ng Pag-ibig ang Lahat ng Bagay’”",
+                        "assignee":"Russel Santos",
+                        "time":8
+                    }
+                ],
+                "cbsConductor":"Danny Edar",
+                "cbsReader":"Vincent Serrano",
+                "endingPrayer":"Samuel Manrique"
+            },
+            {
+                "date":"Mayo 26, 2022",
+                "weeklyBibleReadingSchedule":"1 SAMUEL 30-31",
+                "chairman":"Manuel Rebutido",
+                "startingPrayer":"Jemuel Elimanco",
+                "treasuresFromGodsWord": [
+                    {
+                        "title":"“Panatilihin ang Takot na Mapalungkot si Jehova”",
+                        "assignee":"Danny Edar",
+                        "time":10
+                    },
+                    {
+                        "title":"Espirituwal na Hiyas",
+                        "assignee":"Patricio Felipe",
+                        "time":10
+                    }
+                ],
+                "secondHallCouncilor":"Ken Velarde",
+                "secondHallAudience":"G 2",
+                "bibleReading": [
+                    {
+                        "name":"Antolin Diaz",
+                        "assistant":"",
+                        "assignment":0,
+                        "place":1,
+                        "time": 4,
+                        "pointerToReview": 10
+                    },
+                    {
+                        "name":"Kurt Macatuggal",
+                        "assistant":"",
+                        "assignment":0,
+                        "place":2,
+                        "time": 4,
+                        "pointerToReview": 10
+                    }
+                ],
+                "publishersPart":[
+                    [
+                        {
+                            "name":"Amor Magpily",
+                            "assistant":"Shiela Marie Buenaflor",
+                            "title": null,
+                            "assignment":1,
+                            "place":1,
+                            "time": 3,
+                            "pointerToReview": 12,
+                            "isVideo": false
+                        },
+                        {
+                            "name":"Jaime Velarde",
+                            "assistant":"Teresita Amor",
+                            "title": null,
+                            "assignment":1,
+                            "place":2,
+                            "time": 3,
+                            "pointerToReview": 12,
+                            "isVideo": false
+                        }
+                    ],
+                    [
+                        {
+                            "name":"Julie De Vera",
+                            "assistant":"Samera Cabasag",
+                            "title": null,
+                            "assignment":2,
+                            "place":1,
+                            "time": 4,
+                            "pointerToReview": 9,
+                            "isVideo": false
+                        },
+                        {
+                            "name":"Anna Rualo",
+                            "assistant":"Danielle Mendoza",
+                            "title": null,
+                            "assignment":2,
+                            "place":2,
+                            "time": 4,
+                            "pointerToReview": 9,
+                            "isVideo": false
+                        }
+                    ],
+                    [
+                        {
+                            "name":"Camelo Creus",
+                            "assistant":"",
+                            "title": null,
+                            "assignment":4,
+                            "place":1,
+                            "time": 5,
+                            "pointerToReview": 19
+                        },
+                        {
+                            "name":"Vincent Serrano",
+                            "assistant":"",
+                            "title": null,
+                            "assignment":4,
+                            "place":2,
+                            "time": 5,
+                            "pointerToReview": 19
+                        }
+                    ]
+                ],
+                "music": [
+                    "Awit 135",
+                    "Awit 143",
+                    "Awit 96"
+                ],
+                "livingAsChristians": [
+                    {
+                        "title":"“Handa Ka Ba Kung May Gulo sa Lipunan?”",
+                        "assignee":"Aries Sales",
+                        "time":15
+                    }
+                ],
+                "cbsConductor":"Gerardo Ramento",
+                "cbsReader":"Gerald Ramento",
+                "endingPrayer":"William Varila"
+            }
+        ]
+    },
+    {
+        "id":"galas062022",
+        "month":"Hunyo",
+        "year":"2022",
+        "color": "#551544",
+        "schedule": [
+            {
+                "date":"Hunyo 2, 2022",
+                "weeklyBibleReadingSchedule":"2 SAMUEL 7-8",
+                "chairman":"Eliezer De Vera",
+                "startingPrayer":"Lemuel Seastres",
+                "treasuresFromGodsWord": [
+                    {
+                        "title":"“Ang Tipan ni Jehova kay David”",
+                        "assignee":"Wilmar Diampoc",
+                        "time":10
+                    },
+                    {
+                        "title":"Espirituwal na Hiyas",
+                        "assignee":"Ken Velarde",
+                        "time":10
+                    }
+                ],
+                "secondHallCouncilor":"",
+                "secondHallAudience":"",
+                "bibleReading": [
+                    {
+                        "name":"Lian Jeliezer De Vera",
+                        "assistant":"",
+                        "assignment":0,
+                        "place":1,
+                        "time": 4,
+                        "pointerToReview": 5
+                    },
+                    {
+                        "name":"",
+                        "assistant":"",
+                        "assignment":0,
+                        "place":2,
+                        "time": 4,
+                        "pointerToReview": 5
+                    }
+                ],
+                "publishersPart":[
+                    [
+                        {
+                            "name":"Rhea Diaz",
+                            "assistant":"Reizele Juls De Vera",
+                            "title": null,
+                            "assignment":1,
+                            "place":1,
+                            "time": 3,
+                            "pointerToReview": 13,
+                            "isVideo": false
+                        },
+                        {
+                            "name":"",
+                            "assistant":"",
+                            "title": null,
+                            "assignment":1,
+                            "place":2,
+                            "time": 3,
+                            "pointerToReview": 13,
+                            "isVideo": false
+                        }
+                    ],
+                    [
+                        {
+                            "name":"Cellie Ramento",
+                            "assistant":"Eloiza Dacanay",
+                            "title": null,
+                            "assignment":2,
+                            "place":1,
+                            "time": 4,
+                            "pointerToReview": 1,
+                            "isVideo": false
+                        },
+                        {
+                            "name":"",
+                            "assistant":"",
+                            "title": null,
+                            "assignment":2,
+                            "place":2,
+                            "time": 4,
+                            "pointerToReview": 1,
+                            "isVideo": false
+                        }
+                    ],
+                    [
+                        {
+                            "name":"Jon Ocmer",
+                            "assistant":"Osias Cabasag",
+                            "title": null,
+                            "assignment":3,
+                            "place":1,
+                            "time": 5,
+                            "pointerToReview": 6
+                        },
+                        {
+                            "name":"",
+                            "assistant":"",
+                            "title": null,
+                            "assignment":3,
+                            "place":2,
+                            "time": 5,
+                            "pointerToReview": 6
+                        }
+                    ]
+                ],
+                "music": [
+                    "Awit 22",
+                    "Awit 91",
+                    "Bagong Awit Para sa 2022 Kombensiyon"
+                ],
+                "livingAsChristians": [
+                    {
+                        "title":"Lokal na Pangangailangan",
+                        "assignee":"Dan Paguirigan",
+                        "time":10
+                    },
+                    {
+                        "title":"“Gamitin ang mga Kasalukuyang Pangyayari sa Ministeryo Mo”",
+                        "assignee":"Edgardo Rualo",
+                        "time":5
+                    }
+                ],
+                "cbsConductor":"Samuel Manrique",
+                "cbsReader":"Camelo Creus",
+                "endingPrayer":"Aries Sales"
+            },
+            {
+                "date":"Hunyo 9, 2022",
+                "weeklyBibleReadingSchedule":"2 SAMUEL 9-10",
+                "chairman":"Danny Edar",
+                "startingPrayer":"Ken Velarde",
+                "treasuresFromGodsWord": [
+                    {
+                        "title":"“Ang Tapat na Pag-ibig ni David”",
+                        "assignee":"Patricio Felipe",
+                        "time":10
+                    },
+                    {
+                        "title":"Espirituwal na Hiyas",
+                        "assignee":"Eliezer De Vera",
+                        "time":10
+                    }
+                ],
+                "secondHallCouncilor":"",
+                "secondHallAudience":"",
+                "bibleReading": [
+                    {
+                        "name":"TJ Oliquino",
+                        "assistant":"",
+                        "assignment":0,
+                        "place":1,
+                        "time": 4,
+                        "pointerToReview": 2
+                    },
+                    {
+                        "name":"",
+                        "assistant":"",
+                        "assignment":0,
+                        "place":2,
+                        "time": 4,
+                        "pointerToReview": 2
+                    }
+                ],
+                "publishersPart":[
+                    [
+                        {
+                            "name":"Lora Lhee Ocmer",
+                            "assistant":"MJ Oliquino",
+                            "title": null,
+                            "assignment":1,
+                            "place":1,
+                            "time": 2,
+                            "pointerToReview": 6,
+                            "isVideo": false
+                        },
+                        {
+                            "name":"",
+                            "assistant":"",
+                            "title": null,
+                            "assignment":1,
+                            "place":2,
+                            "time": 2,
+                            "pointerToReview": 6,
+                            "isVideo": false
+                        }
+                    ],
+                    [
+                        {
+                            "name":"Daisy Mendoza",
+                            "assistant":"Gina Hoybia",
+                            "title": null,
+                            "assignment":2,
+                            "place":1,
+                            "time": 3,
+                            "pointerToReview": 8,
+                            "isVideo": false
+                        },
+                        {
+                            "name":"",
+                            "assistant":"",
+                            "title": null,
+                            "assignment":2,
+                            "place":2,
+                            "time": 3,
+                            "pointerToReview": 8,
+                            "isVideo": false
+                        }
+                    ],
+                    [
+                        {
+                            "name":"Natividad Pantaleon",
+                            "assistant":"Melanie Gerna",
+                            "title": null,
+                            "assignment":3,
+                            "place":1,
+                            "time": 5,
+                            "pointerToReview": 16
+                        },
+                        {
+                            "name":"",
+                            "assistant":"",
+                            "title": null,
+                            "assignment":3,
+                            "place":2,
+                            "time": 5,
+                            "pointerToReview": 16
+                        }
+                    ]
+                ],
+                "music": [
+                    "Awit 124",
+                    "Awit 116",
+                    "Awit 1"
+                ],
+                "livingAsChristians": [
+                    {
+                        "title":"Tandaan Kung Paano Gumagawi ang Pag-ibig—Mabait",
+                        "assignee":"William Varila",
+                        "time":5
+                    },
+                    {
+                        "title":"Mga Nagawa ng Organisasyon",
+                        "assignee":"Danny Edar",
+                        "time":10
+                    }
+                ],
+                "cbsConductor":"Allendy Valdez",
+                "cbsReader":"",
+                "endingPrayer":"Jemuel Elimanco"
+            },
+            {
+                "date":"Hunyo 14, 2022",
+                "weeklyBibleReadingSchedule":"2 SAMUEL 11-12",
+                "chairman":"Gerardo Ramento",
+                "startingPrayer":"Russel Santos",
+                "treasuresFromGodsWord": [
+                    {
+                        "title":"“Huwag Kang Magpakontrol sa Maling Pagnanasa”",
+                        "assignee":"Danny Edar",
+                        "time":10
+                    },
+                    {
+                        "title":"Espirituwal na Hiyas",
+                        "assignee":"Ken Velarde",
+                        "time":10
+                    }
+                ],
+                "secondHallCouncilor":"",
+                "secondHallAudience":"",
+                "bibleReading": [
+                    {
+                        "name":"Michael Jeremy Velarde",
+                        "assistant":"",
+                        "assignment":0,
+                        "place":1,
+                        "time": 4,
+                        "pointerToReview": 5
+                    },
+                    {
+                        "name":"",
+                        "assistant":"",
+                        "assignment":0,
+                        "place":2,
+                        "time": 4,
+                        "pointerToReview": 5
+                    }
+                ],
+                "publishersPart":[
+                    [
+                        {
+                            "name":"Marivic Teves",
+                            "assistant":"Liah Talla",
+                            "title": null,
+                            "assignment":1,
+                            "place":1,
+                            "time": 3,
+                            "pointerToReview": 3,
+                            "isVideo": false
+                        },
+                        {
+                            "name":"",
+                            "assistant":"",
+                            "title": null,
+                            "assignment":1,
+                            "place":2,
+                            "time": 3,
+                            "pointerToReview": 3,
+                            "isVideo": false
+                        }
+                    ],
+                    [
+                        {
+                            "name":"Darlene Joy Edar",
+                            "assistant":"Jeremy Rebutido",
+                            "title": null,
+                            "assignment":2,
+                            "place":1,
+                            "time": 4,
+                            "pointerToReview": 20,
+                            "isVideo": false
+                        },
+                        {
+                            "name":"",
+                            "assistant":"",
+                            "title": null,
+                            "assignment":2,
+                            "place":2,
+                            "time": 4,
+                            "pointerToReview": 20,
+                            "isVideo": false
+                        }
+                    ],
+                    [
+                        {
+                            "name":"Rizell Ramento",
+                            "assistant":"Ansherina Rualo",
+                            "title": null,
+                            "assignment":3,
+                            "place":1,
+                            "time": 5,
+                            "pointerToReview": 19
+                        },
+                        {
+                            "name":"",
+                            "assistant":"",
+                            "title": null,
+                            "assignment":3,
+                            "place":2,
+                            "time": 5,
+                            "pointerToReview": 19
+                        }
+                    ]
+                ],
+                "music": [
+                    "Awit 121",
+                    "Awit 29",
+                    "Awit 8"
+                ],
+                "livingAsChristians": [
+                    {
+                        "title":"“Kontrolin ang Maling Pagnanasa”",
+                        "assignee":"Manuel Rebutido",
+                        "time":15
+                    }
+                ],
+                "cbsConductor":"",
+                "cbsReader":"",
+                "endingPrayer":"Crispin Carlos"
+            },
+            {
+                "date":"Hunyo 23, 2022",
+                "weeklyBibleReadingSchedule":"2 SAMUEL 13 -14",
+                "chairman":"Samuel Manrique",
+                "startingPrayer":"William Varila",
+                "treasuresFromGodsWord": [
+                    {
+                        "title":"“Nauwi sa Kapahamakan ang Pagiging Makasarili ni Amnon”",
+                        "assignee":"Lemuel Seastres",
+                        "time":10
+                    },
+                    {
+                        "title":"Espirituwal na Hiyas",
+                        "assignee":"Jemuel Elimanco",
+                        "time":10
+                    }
+                ],
+                "secondHallCouncilor":"",
+                "secondHallAudience":"",
+                "bibleReading": [
+                    {
+                        "name":"Kier Kiester Pudra",
+                        "assistant":"",
+                        "assignment":0,
+                        "place":1,
+                        "time": 4,
+                        "pointerToReview": 10
+                    },
+                    {
+                        "name":"",
+                        "assistant":"",
+                        "assignment":0,
+                        "place":2,
+                        "time": 4,
+                        "pointerToReview": 10
+                    }
+                ],
+                "publishersPart":[
+                    [
+                        {
+                            "name":"Linda Amor",
+                            "assistant":"Arlene Edar",
+                            "title": null,
+                            "assignment":1,
+                            "place":1,
+                            "time": 3,
+                            "pointerToReview": 12,
+                            "isVideo": false
+                        },
+                        {
+                            "name":"",
+                            "assistant":"",
+                            "title": null,
+                            "assignment":1,
+                            "place":2,
+                            "time": 3,
+                            "pointerToReview": 12,
+                            "isVideo": false
+                        }
+                    ],
+                    [
+                        {
+                            "name":"Jovial Paguirigan",
+                            "assistant":"Shiela Marie Buenaflor",
+                            "title": null,
+                            "assignment":2,
+                            "place":1,
+                            "time": 4,
+                            "pointerToReview": 9,
+                            "isVideo": false
+                        },
+                        {
+                            "name":"",
+                            "assistant":"",
+                            "title": null,
+                            "assignment":2,
+                            "place":2,
+                            "time": 4,
+                            "pointerToReview": 9,
+                            "isVideo": false
+                        }
+                    ],
+                    [
+                        {
+                            "name":"Gerald Ramento",
+                            "assistant":"Enrique Daquiz Jr.",
+                            "title": null,
+                            "assignment":3,
+                            "place":1,
+                            "time": 5,
+                            "pointerToReview": 19
+                        },
+                        {
+                            "name":"",
+                            "assistant":"",
+                            "title": null,
+                            "assignment":3,
+                            "place":2,
+                            "time": 5,
+                            "pointerToReview": 19
+                        }
+                    ]
+                ],
+                "music": [
+                    "Awit 127",
+                    "Awit 68",
+                    "Awit 47"
+                ],
+                "livingAsChristians": [
+                    {
+                        "title":"“Patibayin ang Pananampalataya kay Jehova at kay Jesus Gamit ang Masayang Buhay Magpakailanman”",
+                        "assignee":"Eliezer De Vera",
+                        "time":15
+                    }
+                ],
+                "cbsConductor":"Crispin Carlos",
+                "cbsReader":"Vincent Serrano",
+                "endingPrayer":"Russel Santos"
+            },
+            {
+                "date":"Hunyo 30, 2022",
+                "weeklyBibleReadingSchedule":"2 SAMUEL 15-17",
+                "chairman":"Wilmar Diampoc",
+                "startingPrayer":"Lemuel Seastres",
+                "treasuresFromGodsWord": [
+                    {
+                        "title":"“Nagrebelde si Absalom Dahil sa Pagmamataas”",
+                        "assignee":"William Varila",
+                        "time":10
+                    },
+                    {
+                        "title":"Espirituwal na Hiyas",
+                        "assignee":"Russel Santos",
+                        "time":10
+                    }
+                ],
+                "secondHallCouncilor":"",
+                "secondHallAudience":"",
+                "bibleReading": [
+                    {
+                        "name":"Sonny Custosa",
+                        "assistant":"",
+                        "assignment":0,
+                        "place":1,
+                        "time": 4,
+                        "pointerToReview": 10
+                    },
+                    {
+                        "name":"",
+                        "assistant":"",
+                        "assignment":0,
+                        "place":2,
+                        "time": 4,
+                        "pointerToReview": 10
+                    }
+                ],
+                "publishersPart":[
+                    [
+                        {
+                            "name":"Karen Joy Talla",
+                            "assistant":"Norma Panaligan",
+                            "title": null,
+                            "assignment":1,
+                            "place":1,
+                            "time": 3,
+                            "pointerToReview": 12,
+                            "isVideo": false
+                        },
+                        {
+                            "name":"",
+                            "assistant":"",
+                            "title": null,
+                            "assignment":1,
+                            "place":2,
+                            "time": 3,
+                            "pointerToReview": 12,
+                            "isVideo": false
+                        }
+                    ],
+                    [
+                        {
+                            "name":"Editha Creus",
+                            "assistant":"Zeirele Julianne De Vera",
+                            "title": null,
+                            "assignment":2,
+                            "place":1,
+                            "time": 4,
+                            "pointerToReview": 9,
+                            "isVideo": false
+                        },
+                        {
+                            "name":"",
+                            "assistant":"",
+                            "title": null,
+                            "assignment":2,
+                            "place":2,
+                            "time": 4,
+                            "pointerToReview": 9,
+                            "isVideo": false
+                        }
+                    ],
+                    [
+                        {
+                            "name":"Dan Felipe",
+                            "assistant":"",
+                            "title": null,
+                            "assignment":4,
+                            "place":1,
+                            "time": 5,
+                            "pointerToReview": 19
+                        },
+                        {
+                            "name":"",
+                            "assistant":"",
+                            "title": null,
+                            "assignment":4,
+                            "place":2,
+                            "time": 5,
+                            "pointerToReview": 19
+                        }
+                    ]
+                ],
+                "music": [
+                    "Awit 123",
+                    "Awit 106",
+                    "Awit 87"
+                ],
+                "livingAsChristians": [
+                    {
+                        "title":"Lokal na Pangangailangan",
+                        "assignee":"Edgardo Rualo",
+                        "time":5
+                    },
+                    {
+                        "title":"“Ang Pag-ibig ay . . . Hindi Nagmamalaki”",
+                        "assignee":"Samuel Manrique",
+                        "time":10
+                    }
+                ],
+                "cbsConductor":"Dan Paguirigan",
+                "cbsReader":"Gerald Ramento",
+                "endingPrayer":""
+            }
+        ]
+    },
+    {
+        "id":"galas072022",
+        "month":"Hulyo",
+        "year":"2022",
+        "color": "#053d69",
+        "schedule": [
+            {
+                "date":"Hulyo 7, 2022",
+                "weeklyBibleReadingSchedule":"2 SAMUEL 18 -19",
+                "chairman":"Allendy Valdez",
+                "startingPrayer":"Ken Velarde",
+                "treasuresFromGodsWord": [
+                    {
+                        "title":"“Tularan si Barzilai—Alam Niya ang Limitasyon Niya”",
+                        "assignee":"Gerardo Ramento",
+                        "time":10
+                    },
+                    {
+                        "title":"Espirituwal na Hiyas",
+                        "assignee":"Lemuel Seastres",
+                        "time":10
+                    }
+                ],
+                "secondHallCouncilor":"",
+                "secondHallAudience":"",
+                "bibleReading": [
+                    {
+                        "name":"Kurt Macatuggal",
+                        "assistant":"",
+                        "assignment":0,
+                        "place":1,
+                        "time": 4,
+                        "pointerToReview": 5
+                    },
+                    {
+                        "name":"",
+                        "assistant":"",
+                        "assignment":0,
+                        "place":2,
+                        "time": 4,
+                        "pointerToReview": 5
+                    }
+                ],
+                "publishersPart":[
+                    [
+                        {
+                            "name":"Allendy Valdez",
+                            "assistant":"",
+                            "title": null,
+                            "assignment":1,
+                            "place":1,
+                            "time": 5,
+                            "pointerToReview": 13,
+                            "isVideo": true
+                        },
+                        {
+                            "name":"",
+                            "assistant":"",
+                            "title": null,
+                            "assignment":1,
+                            "place":2,
+                            "time": 5,
+                            "pointerToReview": 13,
+                            "isVideo": true
+                        }
+                    ],
+                    [
+                        {
+                            "name":"Shimei Raizza Manrique",
+                            "assistant":"Rizalina Diaz",
+                            "title": null,
+                            "assignment":1,
+                            "place":1,
+                            "time": 3,
+                            "pointerToReview": 1,
+                            "isVideo": false
+                        },
+                        {
+                            "name":"",
+                            "assistant":"",
+                            "title": null,
+                            "assignment":1,
+                            "place":2,
+                            "time": 3,
+                            "pointerToReview": 1,
+                            "isVideo": false
+                        }
+                    ],
+                    [
+                        {
+                            "name":"Vincent Serrano",
+                            "assistant":"",
+                            "title": null,
+                            "assignment":4,
+                            "place":1,
+                            "time": 5,
+                            "pointerToReview": 6
+                        },
+                        {
+                            "name":"",
+                            "assistant":"",
+                            "title": null,
+                            "assignment":4,
+                            "place":2,
+                            "time": 5,
+                            "pointerToReview": 6
+                        }
+                    ]
+                ],
+                "music": [
+                    "Awit 138",
+                    "Awit 81",
+                    "Awit 97"
+                ],
+                "livingAsChristians": [
+                    {
+                        "title":"“Umabot ng mga Tunguhin sa Susunod na Taon ng Paglilingkod—Pagpapayunir”",
+                        "assignee":"Manuel Rebutido",
+                        "time":15
+                    }
+                ],
+                "cbsConductor":"Crispin Carlos",
+                "cbsReader":"Camelo Creus",
+                "endingPrayer":"Russel Santos"
+            },
+            {
+                "date":"Hulyo 14, 2022",
+                "weeklyBibleReadingSchedule":"2 SAMUEL 20-21",
+                "chairman":"Eliezer De Vera",
+                "startingPrayer":"Patricio Felipe",
+                "treasuresFromGodsWord": [
+                    {
+                        "title":"“Si Jehova ay Diyos ng Katarungan”",
+                        "assignee":"Wilmar Diampoc",
+                        "time":10
+                    },
+                    {
+                        "title":"Espirituwal na Hiyas",
+                        "assignee":"William Varila",
+                        "time":10
+                    }
+                ],
+                "secondHallCouncilor":"",
+                "secondHallAudience":"",
+                "bibleReading": [
+                    {
+                        "name":"Kier Kiester Pudra",
+                        "assistant":"",
+                        "assignment":0,
+                        "place":1,
+                        "time": 4,
+                        "pointerToReview": 2
+                    },
+                    {
+                        "name":"",
+                        "assistant":"",
+                        "assignment":0,
+                        "place":2,
+                        "time": 4,
+                        "pointerToReview": 2
+                    }
+                ],
+                "publishersPart":[
+                    [
+                        {
+                            "name":"Eliezer De Vera",
+                            "assistant":"",
+                            "title": null,
+                            "assignment":2,
+                            "place":1,
+                            "time": 5,
+                            "pointerToReview": 6,
+                            "isVideo": true
+                        },
+                        {
+                            "name":"",
+                            "assistant":"",
+                            "title": null,
+                            "assignment":2,
+                            "place":2,
+                            "time": 5,
+                            "pointerToReview": 6,
+                            "isVideo": true
+                        }
+                    ],
+                    [
+                        {
+                            "name":"Mika Vernadeth Sing",
+                            "assistant":"Danielle Mendoza",
+                            "title": null,
+                            "assignment":2,
+                            "place":1,
+                            "time": 3,
+                            "pointerToReview": 8,
+                            "isVideo": false
+                        },
+                        {
+                            "name":"",
+                            "assistant":"",
+                            "title": null,
+                            "assignment":2,
+                            "place":2,
+                            "time": 3,
+                            "pointerToReview": 8,
+                            "isVideo": false
+                        }
+                    ],
+                    [
+                        {
+                            "name":"Jaime Velarde",
+                            "assistant":"Teresita Amor",
+                            "title": null,
+                            "assignment":2,
+                            "place":1,
+                            "time": 5,
+                            "pointerToReview": 16
+                        },
+                        {
+                            "name":"",
+                            "assistant":"",
+                            "title": null,
+                            "assignment":2,
+                            "place":2,
+                            "time": 5,
+                            "pointerToReview": 16
+                        }
+                    ]
+                ],
+                "music": [
+                    "Awit 62",
+                    "Awit 58",
+                    "Awit 3"
+                ],
+                "livingAsChristians": [
+                    {
+                        "title":"“Umabot ng mga Tunguhin sa Susunod na Taon ng Paglilingkod—Paglipat Kung Saan Mas Malaki ang Pangangailangan”",
+                        "assignee":"Danny Edar",
+                        "time":10
+                    },
+                    {
+                        "title":"“Kung Paano Gagamitin ang mga Sampol na Pakikipag-usap”",
+                        "assignee":"Aries Sales",
+                        "time":5
+                    }
+                ],
+                "cbsConductor":"Dan Paguirigan",
+                "cbsReader":"Lian Jeliezer De Vera",
+                "endingPrayer":"Jemuel Elimanco"
+            },
+            {
+                "date":"Hulyo 21, 2022",
+                "weeklyBibleReadingSchedule":"2 SAMUEL 22",
+                "chairman":"Manuel Rebutido",
+                "startingPrayer":"Lemuel Seastres",
+                "treasuresFromGodsWord": [
+                    {
+                        "title":"“Umasa kay Jehova”",
+                        "assignee":"Russel Santos",
+                        "time":10
+                    },
+                    {
+                        "title":"Espirituwal na Hiyas",
+                        "assignee":"Ken Velarde",
+                        "time":10
+                    }
+                ],
+                "secondHallCouncilor":"",
+                "secondHallAudience":"",
+                "bibleReading": [
+                    {
+                        "name":"Antolin Diaz",
+                        "assistant":"",
+                        "assignment":0,
+                        "place":1,
+                        "time": 4,
+                        "pointerToReview": 5
+                    },
+                    {
+                        "name":"",
+                        "assistant":"",
+                        "assignment":0,
+                        "place":2,
+                        "time": 4,
+                        "pointerToReview": 5
+                    }
+                ],
+                "publishersPart":[
+                    [
+                        {
+                            "name":"Anna Rualo",
+                            "assistant":"Chona Tapel",
+                            "title": null,
+                            "assignment":1,
+                            "place":1,
+                            "time": 3,
+                            "pointerToReview": 3,
+                            "isVideo": false
+                        },
+                        {
+                            "name":"",
+                            "assistant":"",
+                            "title": null,
+                            "assignment":1,
+                            "place":2,
+                            "time": 3,
+                            "pointerToReview": 3,
+                            "isVideo": false
+                        }
+                    ],
+                    [
+                        {
+                            "name":"Luzmin Pudra",
+                            "assistant":"Lorraine Manrique",
+                            "title": null,
+                            "assignment":2,
+                            "place":1,
+                            "time": 4,
+                            "pointerToReview": 20,
+                            "isVideo": false
+                        },
+                        {
+                            "name":"",
+                            "assistant":"",
+                            "title": null,
+                            "assignment":2,
+                            "place":2,
+                            "time": 4,
+                            "pointerToReview": 20,
+                            "isVideo": false
+                        }
+                    ],
+                    [
+                        {
+                            "name":"Camelo Creus",
+                            "assistant":"",
+                            "title": null,
+                            "assignment":4,
+                            "place":1,
+                            "time": 5,
+                            "pointerToReview": 19
+                        },
+                        {
+                            "name":"",
+                            "assistant":"",
+                            "title": null,
+                            "assignment":4,
+                            "place":2,
+                            "time": 5,
+                            "pointerToReview": 19
+                        }
+                    ]
+                ],
+                "music": [
+                    "Awit 4",
+                    "Awit 12",
+                    "Awit 60"
+                ],
+                "livingAsChristians": [
+                    {
+                        "title":"Magsaya sa Pagliligtas ni Jehova",
+                        "assignee":"Jemuel Elimanco",
+                        "time":5
+                    },
+                    {
+                        "title":"Lokal na Pangangailangan",
+                        "assignee":"Crispin Carlos",
+                        "time":10
+                    }
+                ],
+                "cbsConductor":"Edgardo Rualo",
+                "cbsReader":"Gerald Ramento",
+                "endingPrayer":"Gerardo Ramento"
+            },
+            {
+                "date":"Hulyo 28, 2022",
+                "weeklyBibleReadingSchedule":"2 SAMUEL 23-24",
+                "chairman":"Aries Sales",
+                "startingPrayer":"William Varila",
+                "treasuresFromGodsWord": [
+                    {
+                        "title":"“Handa Ka Bang Magsakripisyo?”",
+                        "assignee":"Danny Edar",
+                        "time":10
+                    },
+                    {
+                        "title":"Espirituwal na Hiyas",
+                        "assignee":"Patricio Felipe",
+                        "time":10
+                    }
+                ],
+                "secondHallCouncilor":"",
+                "secondHallAudience":"",
+                "bibleReading": [
+                    {
+                        "name":"Jon Jon Ocmer",
+                        "assistant":"",
+                        "assignment":0,
+                        "place":1,
+                        "time": 4,
+                        "pointerToReview": 10
+                    },
+                    {
+                        "name":"",
+                        "assistant":"",
+                        "assignment":0,
+                        "place":2,
+                        "time": 4,
+                        "pointerToReview": 10
+                    }
+                ],
+                "publishersPart":[
+                    [
+                        {
+                            "name":"Dely Oliquino",
+                            "assistant":"Maricar Isidro",
+                            "title": null,
+                            "assignment":1,
+                            "place":1,
+                            "time": 3,
+                            "pointerToReview": 12,
+                            "isVideo": false
+                        },
+                        {
+                            "name":"",
+                            "assistant":"",
+                            "title": null,
+                            "assignment":1,
+                            "place":2,
+                            "time": 3,
+                            "pointerToReview": 12,
+                            "isVideo": false
+                        }
+                    ],
+                    [
+                        {
+                            "name":"Regina Magallanes",
+                            "assistant":"Kirsten Jael Velarde",
+                            "title": null,
+                            "assignment":2,
+                            "place":1,
+                            "time": 4,
+                            "pointerToReview": 9,
+                            "isVideo": false
+                        },
+                        {
+                            "name":"",
+                            "assistant":"",
+                            "title": null,
+                            "assignment":2,
+                            "place":2,
+                            "time": 4,
+                            "pointerToReview": 9,
+                            "isVideo": false
+                        }
+                    ],
+                    [
+                        {
+                            "name":"Dainty Fay Paguirigan",
+                            "assistant":"Paulyn Elimanco",
+                            "title": null,
+                            "assignment":3,
+                            "place":1,
+                            "time": 5,
+                            "pointerToReview": 19
+                        },
+                        {
+                            "name":"",
+                            "assistant":"",
+                            "title": null,
+                            "assignment":3,
+                            "place":2,
+                            "time": 5,
+                            "pointerToReview": 19
+                        }
+                    ]
+                ],
+                "music": [
+                    "Awit 76",
+                    "Awit 17",
+                    "Awit 32"
+                ],
+                "livingAsChristians": [
+                    {
+                        "title":"Buong Pusong Maghandog (Aw 54:6)",
+                        "assignee":"Aries Sales",
+                        "time":9
+                    },
+                    {
+                        "title":"Maging Kaibigan ni Jehova—Pagsasakripisyo",
+                        "assignee":"Dan Paguirigan",
+                        "time":6
+                    }
+                ],
+                "cbsConductor":"Samuel Manrique",
+                "cbsReader":"Vincent Serrano",
+                "endingPrayer":"Allendy Valdez"
+            }
+        ]
+    },
+    {
+        "id":"galas072022",
+        "month":"Agosto",
+        "year":"2022",
+        "color": "#053d69",
+        "schedule": [
+            {
+                "date":"Agosto 4, 2022",
+                "weeklyBibleReadingSchedule":"1 HARI 1-2",
+                "chairman":"Crispin Carlos",
+                "startingPrayer":"Russel Santos",
+                "treasuresFromGodsWord": [
+                    {
+                        "title":"“Natututo Ka Ba sa mga Pagkakamali Mo?”",
+                        "assignee":"Lemuel Seastres",
+                        "time":10
+                    },
+                    {
+                        "title":"Espirituwal na Hiyas",
+                        "assignee":"Aries Sales",
+                        "time":10
+                    }
+                ],
+                "secondHallCouncilor":"",
+                "secondHallAudience":"",
+                "bibleReading": [
+                    {
+                        "name":"Leo Cabrillos",
+                        "assistant":"",
+                        "assignment":0,
+                        "place":1,
+                        "time": 4,
+                        "pointerToReview": 5
+                    },
+                    {
+                        "name":"",
+                        "assistant":"",
+                        "assignment":0,
+                        "place":2,
+                        "time": 4,
+                        "pointerToReview": 5
+                    }
+                ],
+                "publishersPart":[
+                    [
+                        {
+                            "name":"Vivien Serrano",
+                            "assistant":"Dolores Carlos",
+                            "title": null,
+                            "assignment":1,
+                            "place":1,
+                            "time": 3,
+                            "pointerToReview": 13,
+                            "isVideo": false
+                        },
+                        {
+                            "name":"",
+                            "assistant":"",
+                            "title": null,
+                            "assignment":1,
+                            "place":2,
+                            "time": 3,
+                            "pointerToReview": 13,
+                            "isVideo": false
+                        }
+                    ],
+                    [
+                        {
+                            "name":"Anna Lyn Sales",
+                            "assistant":"Nica Santos",
+                            "title": null,
+                            "assignment":2,
+                            "place":1,
+                            "time": 4,
+                            "pointerToReview": 1,
+                            "isVideo": false
+                        },
+                        {
+                            "name":"",
+                            "assistant":"",
+                            "title": null,
+                            "assignment":2,
+                            "place":2,
+                            "time": 4,
+                            "pointerToReview": 1,
+                            "isVideo": false
+                        }
+                    ],
+                    [
+                        {
+                            "name":"Lian Jeliezer De Vera",
+                            "assistant":"",
+                            "title": null,
+                            "assignment":4,
+                            "place":1,
+                            "time": 5,
+                            "pointerToReview": 6
+                        },
+                        {
+                            "name":"",
+                            "assistant":"",
+                            "title": null,
+                            "assignment":4,
+                            "place":2,
+                            "time": 5,
+                            "pointerToReview": 6
+                        }
+                    ]
+                ],
+                "music": [
+                    "Awit 98",
+                    "Awit 84",
+                    "Awit 24"
+                ],
+                "livingAsChristians": [
+                    {
+                        "title":"“Umabot ng mga Tunguhin sa Susunod na Taon ng Paglilingkod—Pag-aaral sa School for Kingdom Evangelizers”",
+                        "assignee":"Wilmar Diampoc",
+                        "time":7
+                    },
+                    {
+                        "title":"“Umabot ng mga Tunguhin sa Susunod na Taon ng Paglilingkod—Pagtulong sa Pagtatayo ng Teokratikong Pasilidad”",
+                        "assignee":"Samuel Manrique",
+                        "time":8
+                    }
+                ],
+                "cbsConductor":"Manuel Rebutido",
+                "cbsReader":"Camelo Creus",
+                "endingPrayer":"Ken Velarde"
+            },
+            {
+                "date":"Agosto 11, 2022",
+                "weeklyBibleReadingSchedule":"1 HARI 3-4",
+                "chairman":"Dan Paguirigan",
+                "startingPrayer":"Lemuel Seastres",
+                "treasuresFromGodsWord": [
+                    {
+                        "title":"“Mahalaga ang Karunungan”",
+                        "assignee":"William Varila",
+                        "time":10
+                    },
+                    {
+                        "title":"Espirituwal na Hiyas",
+                        "assignee":"Eliezer De Vera",
+                        "time":10
+                    }
+                ],
+                "secondHallCouncilor":"",
+                "secondHallAudience":"",
+                "bibleReading": [
+                    {
+                        "name":"TJ Oliquino",
+                        "assistant":"",
+                        "assignment":0,
+                        "place":1,
+                        "time": 4,
+                        "pointerToReview": 2
+                    },
+                    {
+                        "name":"",
+                        "assistant":"",
+                        "assignment":0,
+                        "place":2,
+                        "time": 4,
+                        "pointerToReview": 2
+                    }
+                ],
+                "publishersPart":[
+                    [
+                        {
+                            "name":"Hannahgene Carlos",
+                            "assistant":"Rosie Tuba",
+                            "title": null,
+                            "assignment":1,
+                            "place":1,
+                            "time": 3,
+                            "pointerToReview": 6,
+                            "isVideo": false
+                        },
+                        {
+                            "name":"",
+                            "assistant":"",
+                            "title": null,
+                            "assignment":1,
+                            "place":2,
+                            "time": 3,
+                            "pointerToReview": 6,
+                            "isVideo": false
+                        }
+                    ],
+                    [
+                        {
+                            "name":"Mary Jane Ocmer",
+                            "assistant":"Norma Ramirez",
+                            "title": null,
+                            "assignment":2,
+                            "place":1,
+                            "time": 4,
+                            "pointerToReview": 8,
+                            "isVideo": false
+                        },
+                        {
+                            "name":"",
+                            "assistant":"",
+                            "title": null,
+                            "assignment":2,
+                            "place":2,
+                            "time": 4,
+                            "pointerToReview": 8,
+                            "isVideo": false
+                        }
+                    ],
+                    [
+                        {
+                            "name":"Rebecca Manrique",
+                            "assistant":"Ansherina Rualo",
+                            "title": null,
+                            "assignment":3,
+                            "place":1,
+                            "time": 5,
+                            "pointerToReview": 16
+                        },
+                        {
+                            "name":"",
+                            "assistant":"",
+                            "title": null,
+                            "assignment":3,
+                            "place":2,
+                            "time": 5,
+                            "pointerToReview": 16
+                        }
+                    ]
+                ],
+                "music": [
+                    "Awit 88",
+                    "Awit 127",
+                    "Awit 14"
+                ],
+                "livingAsChristians": [
+                    {
+                        "title":"Lokal na Pangangailangan",
+                        "assignee":"Gerardo Ramento",
+                        "time":10
+                    },
+                    {
+                        "title":"Umabot ng mga Tunguhin sa Susunod na Taon ng Paglilingkod—Maging Bukas-Palad",
+                        "assignee":"Russel Santos",
+                        "time":5
+                    }
+                ],
+                "cbsConductor":"Allendy Valdez",
+                "cbsReader":"Gerald Ramento",
+                "endingPrayer":"Patricio Felipe"
+            },
+            {
+                "date":"Agosto 18, 2022",
+                "weeklyBibleReadingSchedule":"1 HARI 5-6",
+                "chairman":"Edgardo Rualo",
+                "startingPrayer":"Jemuel Elimanco",
+                "treasuresFromGodsWord": [
+                    {
+                        "title":"“Buong Puso Nilang Itinayo ang Templo”",
+                        "assignee":"Ken Velarde",
+                        "time":10
+                    },
+                    {
+                        "title":"Espirituwal na Hiyas",
+                        "assignee":"Manuel Rebutido",
+                        "time":10
+                    }
+                ],
+                "secondHallCouncilor":"",
+                "secondHallAudience":"",
+                "bibleReading": [
+                    {
+                        "name":"Michael Jeremy Velarde",
+                        "assistant":"",
+                        "assignment":0,
+                        "place":1,
+                        "time": 4,
+                        "pointerToReview": 5
+                    },
+                    {
+                        "name":"",
+                        "assistant":"",
+                        "assignment":0,
+                        "place":2,
+                        "time": 4,
+                        "pointerToReview": 5
+                    }
+                ],
+                "publishersPart":[
+                    [
+                        {
+                            "name":"Sanith Cerbas",
+                            "assistant":"Jeanalyn Mota",
+                            "title": null,
+                            "assignment":1,
+                            "place":1,
+                            "time": 3,
+                            "pointerToReview": 3,
+                            "isVideo": false
+                        },
+                        {
+                            "name":"",
+                            "assistant":"",
+                            "title": null,
+                            "assignment":1,
+                            "place":2,
+                            "time": 3,
+                            "pointerToReview": 3,
+                            "isVideo": false
+                        }
+                    ],
+                    [
+                        {
+                            "name":"Rebecca Varila",
+                            "assistant":"Edna Amor",
+                            "title": null,
+                            "assignment":2,
+                            "place":1,
+                            "time": 4,
+                            "pointerToReview": 20,
+                            "isVideo": false
+                        },
+                        {
+                            "name":"",
+                            "assistant":"",
+                            "title": null,
+                            "assignment":2,
+                            "place":2,
+                            "time": 4,
+                            "pointerToReview": 20,
+                            "isVideo": false
+                        }
+                    ],
+                    [
+                        {
+                            "name":"Delia Talla",
+                            "assistant":"Josie Ramirez",
+                            "title": null,
+                            "assignment":3,
+                            "place":1,
+                            "time": 5,
+                            "pointerToReview": 19
+                        },
+                        {
+                            "name":"",
+                            "assistant":"",
+                            "title": null,
+                            "assignment":3,
+                            "place":2,
+                            "time": 5,
+                            "pointerToReview": 19
+                        }
+                    ]
+                ],
+                "music": [
+                    "Awit 122",
+                    "Awit 91",
+                    "Awit 20"
+                ],
+                "livingAsChristians": [
+                    {
+                        "title":"Nakikita ang Kamay ni Jehova Kapag Nagtatayo ng mga Kingdom Hall",
+                        "assignee":"Dan Paguirigan",
+                        "time":15
+                    }
+                ],
+                "cbsConductor":"Aries Sales",
+                "cbsReader":"Lian Jeliezer De Vera",
+                "endingPrayer":"Lemuel Seastres"
+            },
+            {
+                "date":"Agosto 25, 2022",
+                "weeklyBibleReadingSchedule":"1 HARI 7",
+                "chairman":"Gerardo Ramento",
+                "startingPrayer":"Ken Velarde",
+                "treasuresFromGodsWord": [
+                    {
+                        "title":"“Ang Matututuhan Natin sa Dalawang Haligi”",
+                        "assignee":"Patricio Felipe",
+                        "time":10
+                    },
+                    {
+                        "title":"Espirituwal na Hiyas",
+                        "assignee":"Allendy Valdez",
+                        "time":10
+                    }
+                ],
+                "secondHallCouncilor":"",
+                "secondHallAudience":"",
+                "bibleReading": [
+                    {
+                        "name":"John Jefferson Ramirez",
+                        "assistant":"",
+                        "assignment":0,
+                        "place":1,
+                        "time": 4,
+                        "pointerToReview": 10
+                    },
+                    {
+                        "name":"",
+                        "assistant":"",
+                        "assignment":0,
+                        "place":2,
+                        "time": 4,
+                        "pointerToReview": 10
+                    }
+                ],
+                "publishersPart":[
+                    [
+                        {
+                            "name":"Abigael Diampoc",
+                            "assistant":"Maica Mañabo",
+                            "title": null,
+                            "assignment":1,
+                            "place":1,
+                            "time": 3,
+                            "pointerToReview": 12,
+                            "isVideo": false
+                        },
+                        {
+                            "name":"",
+                            "assistant":"",
+                            "title": null,
+                            "assignment":1,
+                            "place":2,
+                            "time": 3,
+                            "pointerToReview": 12,
+                            "isVideo": false
+                        }
+                    ],
+                    [
+                        {
+                            "name":"Shiela Marie Buenaflor",
+                            "assistant":"Julie De Vera",
+                            "title": null,
+                            "assignment":2,
+                            "place":1,
+                            "time": 4,
+                            "pointerToReview": 9,
+                            "isVideo": false
+                        },
+                        {
+                            "name":"",
+                            "assistant":"",
+                            "title": null,
+                            "assignment":2,
+                            "place":2,
+                            "time": 4,
+                            "pointerToReview": 9,
+                            "isVideo": false
+                        }
+                    ],
+                    [
+                        {
+                            "name":"Eloiza Dacanay",
+                            "assistant":"Cellie Ramento",
+                            "title": null,
+                            "assignment":3,
+                            "place":1,
+                            "time": 5,
+                            "pointerToReview": 19
+                        },
+                        {
+                            "name":"",
+                            "assistant":"",
+                            "title": null,
+                            "assignment":3,
+                            "place":2,
+                            "time": 5,
+                            "pointerToReview": 19
+                        }
+                    ]
+                ],
+                "music": [
+                    "Awit 7",
+                    "Awit 72",
+                    "Awit 13"
+                ],
+                "livingAsChristians": [
+                    {
+                        "title":"Lokal na Pangangailangan",
+                        "assignee":"Aries Sales",
+                        "time":5
+                    },
+                    {
+                        "title":"“Espesyal na Kampanya sa Setyembre Para Mag-alok ng Pag-aaral sa Bibliya”",
+                        "assignee":"Crispin Carlos",
+                        "time":10
+                    }
+                ],
+                "cbsConductor":"Danny Edar",
+                "cbsReader":"Vincent Serrano",
+                "endingPrayer":"William Varila"
+            },
+            {
+                "date":"Setyembre 1, 2022",
+                "weeklyBibleReadingSchedule":"1 HARI 8",
+                "chairman":"Samuel Manrique",
+                "startingPrayer":"William Varila",
+                "treasuresFromGodsWord": [
+                    {
+                        "title":"“Ang Mapagpakumbaba at Taimtim na Panalangin ni Solomon sa Harap ng mga Tao”",
+                        "assignee":"Jemuel Elimanco",
+                        "time":10
+                    },
+                    {
+                        "title":"Espirituwal na Hiyas",
+                        "assignee":"Russel Santos",
+                        "time":10
+                    }
+                ],
+                "secondHallCouncilor":"",
+                "secondHallAudience":"",
+                "bibleReading": [
+                    {
+                        "name":"Sonny Custosa",
+                        "assistant":"",
+                        "assignment":0,
+                        "place":1,
+                        "time": 4,
+                        "pointerToReview": 10
+                    },
+                    {
+                        "name":"",
+                        "assistant":"",
+                        "assignment":0,
+                        "place":2,
+                        "time": 4,
+                        "pointerToReview": 10
+                    }
+                ],
+                "publishersPart":[
+                    [
+                        {
+                            "name":"Reizele Juls De Vera",
+                            "assistant":"Rhea Diaz",
+                            "title": null,
+                            "assignment":1,
+                            "place":1,
+                            "time": 3,
+                            "pointerToReview": 12,
+                            "isVideo": false
+                        },
+                        {
+                            "name":"",
+                            "assistant":"",
+                            "title": null,
+                            "assignment":1,
+                            "place":2,
+                            "time": 3,
+                            "pointerToReview": 12,
+                            "isVideo": false
+                        }
+                    ],
+                    [
+                        {
+                            "name":"MJ Oliquino",
+                            "assistant":"Natividad Pantaleon",
+                            "title": null,
+                            "assignment":2,
+                            "place":1,
+                            "time": 4,
+                            "pointerToReview": 9,
+                            "isVideo": false
+                        },
+                        {
+                            "name":"",
+                            "assistant":"",
+                            "title": null,
+                            "assignment":2,
+                            "place":2,
+                            "time": 4,
+                            "pointerToReview": 9,
+                            "isVideo": false
+                        }
+                    ],
+                    [
+                        {
+                            "name":"Gerald Ramento",
+                            "assistant":"",
+                            "title": null,
+                            "assignment":4,
+                            "place":1,
+                            "time": 5,
+                            "pointerToReview": 19
+                        },
+                        {
+                            "name":"",
+                            "assistant":"",
+                            "title": null,
+                            "assignment":4,
+                            "place":2,
+                            "time": 5,
+                            "pointerToReview": 19
+                        }
+                    ]
+                ],
+                "music": [
+                    "Awit 41",
+                    "Awit 44",
+                    "Awit 107"
+                ],
+                "livingAsChristians": [
+                    {
+                        "title":"“Sinisikap Mo Bang Makita ang Sagot sa mga Panalangin Mo?”",
+                        "assignee":"Eliezer De Vera",
+                        "time":15
+                    }
+                ],
+                "cbsConductor":"Wilmar Diampoc",
+                "cbsReader":"Eliezer De Vera",
+                "endingPrayer":"Edgardo Rualo"
+            }
+        ]
+    }
+]
+
+
